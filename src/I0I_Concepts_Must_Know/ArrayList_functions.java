@@ -14,12 +14,21 @@ public class ArrayList_functions {
         al.add(2230);
         al.add(2);
         al.add(23);
+        al.add(23);
+        al.add(23);
         al.add(22);
         al.add(213);
         System.out.println(al);
 
-
         al.remove(0);
         System.out.println(al);
+
+        System.out.println("\n print specific elements from arraylist");
+        for (int i = 3; i < 5; i++) {
+            System.out.print(al.get(i) + " ");
+        }
+
+        System.out.println("\n this will print the arraylist all size of element : ");
+        System.out.println(al.size());
     }
 }

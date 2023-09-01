@@ -5,22 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7a8c732-f908-4d82-bebf-e2cc3143bd19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I0I_Concepts_Must_Know/ArrayList_functions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I0I_Concepts_Must_Know/Exception_Handling/runtimeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I0I_Concepts_Must_Know/Hashset_functions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I2I_starterQues/o10_Nth_Number_Of_Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I2I_starterQues/o11_Count_Characters_inString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I2I_starterQues/o12_Armstrong_Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I2I_starterQues/o13_second_smallest_Element_find.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I2I_starterQues/o7_Delete_Insert_Elements_inArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I2I_starterQues/o9_Fibonacci_Series.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PAINDING/Q23_Sum_ofTwoArrays_1D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PAINDING/Q26_ThreeArray_commonElementFind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PAINDING/Q27_sum_OF_2D_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I0I_Concepts_Must_Know/Hashmap_Functions_impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I0I_Concepts_Must_Know/String_Manipulation_Functions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I3I_Sortings/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I3I_Sortings/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I3I_Sortings/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I3I_Sortings/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I3I_Sortings/selectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I4I_AccioQues/find_if_String_Is_Valid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I5I_HashMaps_Sets/count_Pair_with_given_sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I5I_HashMaps_Sets/return_Only_NonRepetative_ElementSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PAINDING/GFG_Q6_Minimum_SumOfTwo_Nos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PAINDING/mergeSortedArr.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o7_Delete_Elements_FromArr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/I2I_starterQues/o7_Delete_Elements_FromArr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Must_Know/ArrayList_functions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Must_Know/ArrayList_functions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I1I_Patterns/Patterns.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/I1I_Patterns/Patterns.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o13_second_smallest_Element_find.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o13_second_smallest_Element_find.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o7_Delete_Insert_Elements_inArr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o7_Delete_Insert_Elements_inArr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_Concepts_Must_Know/ArrayList_functions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I0I_Concepts_Must_Know/ArrayList_functions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I1I_Patterns/Patterns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I1I_Patterns/Patterns.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2I_starterQues/o13_second_smallest_Element_find.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I2I_starterQues/o13_second_smallest_Element_find.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2I_starterQues/o7_Delete_Insert_Elements_inArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I2I_starterQues/o7_Delete_Insert_Elements_inArr.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,15 +53,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/__Maven - intellej codes/DSA_QuesList&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/__Maven - intellej codes/DSA_prevQuestions",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -67,6 +73,9 @@
       <updated>1693052074508</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

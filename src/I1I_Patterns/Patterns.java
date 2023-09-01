@@ -242,4 +242,184 @@ output :
      */
 
 
+    //  solve this pattern ques on link
+    static void pattern10(int n) {
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j <= i; j++) {
+                if (i == 1) {
+                    System.out.print(1);
+                } else if (j == 1 || j == i) {
+                    System.out.print(1);
+                } else {
+                    System.out.print(2);
+                }
+            }
+            System.out.println();
+        }
+    }
+
+// 	1
+// 	11
+// 	121
+// 	1221
+// 	12321
+
+
+    static void pattern9(int n) {
+        n = 5;
+        char ch = 'A';
+        for(int i=0; i<n; i++) {
+
+            for(int j=0; j<=i ; j++) {
+                System.out.print(ch + " ");
+                ch++;
+            }
+            System.out.println("");
+        }
+    }
+
+    // a
+    // b c
+    // d e f
+    // g h i j
+    // k l m n o
+
+    static void pattern8(int n) {
+        n = 5;
+        int no = 1;
+        for(int i=0; i<n; i++) {
+
+
+            for(int j=0; j<= i; j++) {
+                System.out.print(no + " ");
+                no++;
+            }
+            System.out.println("");
+        }
+    }
+
+    // 1
+    // 2 3
+    // 4 5 6
+    // 7 8 9 10
+    // 11 12 13 14 15
+
+
+    static void pattern7(int n) {
+
+        for(int i=0; i<n; i++) {
+            for(int j=0; j<=i; j++) {
+
+                if((i+j) % 2 == 0) System.out.print("1 ");
+
+                else System.out.print("0 ");
+
+            }
+            System.out.println();
+        }
+    }
+
+    // 1
+    // 0 1
+    // 1 0 1
+    // 0 1 0 1
+
+    static void pattern6(int n) {
+        n = 6;
+        for(int i=0; i< n; i++) {
+
+            // space
+            for(int j=0; j< (n-i-1); j++)
+                System.out.print(" ");
+
+            // stars
+            for (int j=0; j< (2*i+1) ; j++){
+                System.out.print("*");
+            }
+            System.out.println();
+
+        }
+    }
+    /*
+     *
+     ***
+     *****
+     *******
+     *********
+     ***********
+
+     */
+    static void pattern51(int n) {
+
+        for(int i=n; i>=0; i--) {
+            for(int j=1; j<= i ; j++) {
+                System.out.print(j + " ");
+            }
+            System.out.println();
+        }
+    }
+    // 1 2 3 4
+    // 1 2 3
+    // 1 2
+    // 1
+
+    static void pattern41(int n) {
+
+        for(int i=1; i<=n; i++) {
+            for(int j=1; j<=i ; j++) {
+                System.out.print(i + " "); // here i just change it to row
+            }
+            System.out.println();
+        }
+    }
+    // 1
+    // 2 2
+    // 3 3 3
+    // 4 4 4 4
+
+
+    static void pattern311(int n) {
+
+        for(int i=1; i<=n; i++) {
+            for(int j=1; j<=i ; j++) {
+                System.out.print(j + " "); // here i just change it to col
+            }
+            System.out.println();
+        }
+    }
+    // 1
+    // 1 2
+    // 1 2 3
+    // 1 2 3 4
+
+
+    static void pattern211(int n) {
+        for(int i=0; i<n; i++) {
+            for(int j=0; j<=i ; j++) {
+                System.out.print("* ");
+            }
+            System.out.println();
+        }
+    }
+
+    // *
+    // * *
+    // * * *
+    // * * * *
+
+    static void pattern111(int n){
+
+        for(int i=0; i<n; i++) {
+            for(int j=0; j<n; j++) {
+                System.out.print("* ");
+            }
+            System.out.println();
+        }
+    }
+    /*
+     * * * *
+     * * * *
+     * * * *
+     * * * *
+     */
 }

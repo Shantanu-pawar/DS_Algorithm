@@ -10,8 +10,8 @@ public class o7_Delete_Insert_Elements_inArr {
         int [] arr = {10, 20, 30, 40, 50, 60, 70};
         int delete = 60;
 
-//        optimisedRemoval(arr, delete);
-        insertElement(arr, 3,3434);
+        optimisedRemoval(arr, delete);
+//        insertElement(arr, 3,3434);
     }
     static void insertElement(int []arr, int index, int element){
         List<Integer> newArr = new ArrayList<>();
@@ -27,26 +27,28 @@ public class o7_Delete_Insert_Elements_inArr {
         }
         System.out.println(newArr);
     }
+
     static void optimisedRemoval(int []arr, int delete){
-        List<Integer> ans = new ArrayList<>();
 
         int count = 0;
-        for (int i = 0; i < arr.length; i++) {
-            if(arr[i] == delete) count++;
+        int ans[] = new int[arr.length-1];
+        int k = 0;
+        for(int i=0; i<= ans.length; i++){
 
-            else if(arr[i] != delete) {
-                ans.add(arr[i]);
+            if(arr[i] == delete) {
+                count++; continue;
             }
+            ans[k++] = arr[i];
         }
 
         if(count != 0) {
-            System.out.println(ans);
+            System.out.println(Arrays.toString(ans));
         }
          else System.out.println("Element Not present in arr");
 
     }
 
-    static void remove(int []arr, int delete) {
+    static void inplaceRemoval(int []arr, int delete) {
         int flag = 0;
 
         for (int i = 0; i < arr.length; i++) {

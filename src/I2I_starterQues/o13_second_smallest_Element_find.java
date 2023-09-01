@@ -3,9 +3,11 @@ package I2I_starterQues;
 public class o13_second_smallest_Element_find {
     public static void main(String[] args) {
 
-//        Ques : find 2nd smallest elemt from an arr
+//        Ques : find 2nd smallest element from an arr
         int [] arr = {5,3,2,1,39,44,-23,-23};
-//        secondLastElement(arr);
+
+        /*first  approach : sort the arr, and return the 2nd large element from it.
+        * second approach : efficient if else statements in looping */
         optimalSolution(arr);
     }
     static void optimalSolution(int []arr){ // O(N) :: Time Complexity
