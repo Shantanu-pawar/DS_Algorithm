@@ -5,27 +5,58 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7a8c732-f908-4d82-bebf-e2cc3143bd19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/I0I_Concepts_Must_Know/Hashmap_Functions_impl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I0I_Concepts_Must_Know/String_Manipulation_Functions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I3I_Sortings/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I3I_Sortings/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I3I_Sortings/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I3I_Sortings/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I3I_Sortings/selectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I4I_AccioQues/find_if_String_Is_Valid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I5I_HashMaps_Sets/count_Pair_with_given_sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I5I_HashMaps_Sets/return_Only_NonRepetative_ElementSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PAINDING/GFG_Q6_Minimum_SumOfTwo_Nos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PAINDING/mergeSortedArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/Convert_Int_And_Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/inplace_reversal_of_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I0I_OOPs/all_TypesOf_Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I2_1I_2D_Array/Array_2D_Searching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I2_1I_2D_Array/Spiral_Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I3I_Sortings/QuickSort_REVISE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I6I_Stacks_Queues/Stacks_IMPL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I6I_Stacks_Queues/maximum_area_Histogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PAINDING/Substract_Two_StringsNums.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Must_Know/ArrayList_functions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Must_Know/ArrayList_functions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I1I_Patterns/Patterns.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/I1I_Patterns/Patterns.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o13_second_smallest_Element_find.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o13_second_smallest_Element_find.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o7_Delete_Insert_Elements_inArr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o7_Delete_Insert_Elements_inArr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/I0I_Concepts_Must_Know/ArrayList_functions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I0I_Concepts_Must_Know/ArrayList_functions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/I1I_Patterns/Patterns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I1I_Patterns/Patterns.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/I2I_starterQues/o13_second_smallest_Element_find.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I2I_starterQues/o13_second_smallest_Element_find.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/I2I_starterQues/o7_Delete_Insert_Elements_inArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I2I_starterQues/o7_Delete_Insert_Elements_inArr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Must_Know/Arr_Element_Copy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Must_Know/ArrayList_functions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Must_Know/Exception_Handling/runtimeException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Must_Know/Hashmap_Functions_impl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Must_Know/Hashset_functions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Must_Know/String_Manipulation_Functions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Must_Know/XOR_properties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o10_Nth_Number_Of_Fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o11_Count_Characters_inString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o12_Armstrong_Number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o13_second_smallest_Element_find.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o1_primeNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o2_leapYear.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o3_FactorialNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o4_ReverseNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o5_reverseString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o6_NumberSwappings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o7_Delete_Insert_Elements_inArr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o8_identifyPalindrome_Numbers_String.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o9_Fibonacci_Series.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I3I_Sortings/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_Concepts_Must_Know/Arr_Element_Copy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/Arr_Element_Copy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_Concepts_Must_Know/ArrayList_functions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/DSA_impl_useFunctions/ArrayList_functions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_Concepts_Must_Know/Exception_Handling/runtimeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/Exception_Handling/runtimeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_Concepts_Must_Know/Hashmap_Functions_impl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/DSA_impl_useFunctions/Hashmap_Functions_impl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_Concepts_Must_Know/Hashset_functions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/DSA_impl_useFunctions/Hashset_functions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_Concepts_Must_Know/String_Manipulation_Functions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/String_Manipulation_Functions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_Concepts_Must_Know/XOR_properties.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/DSA_impl_useFunctions/XOR_properties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2I_starterQues/o10_Nth_Number_Of_Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I2_0I_starterQues/o10_Nth_Number_Of_Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2I_starterQues/o11_Count_Characters_inString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I2_0I_starterQues/o11_Count_Characters_inString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2I_starterQues/o12_Armstrong_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I2_0I_starterQues/o12_Armstrong_Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2I_starterQues/o13_second_smallest_Element_find.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I2_0I_starterQues/o13_second_smallest_Element_find.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2I_starterQues/o1_primeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I2_0I_starterQues/o1_primeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2I_starterQues/o2_leapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I2_0I_starterQues/o2_leapYear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2I_starterQues/o3_FactorialNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I2_0I_starterQues/o3_FactorialNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2I_starterQues/o4_ReverseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I2_0I_starterQues/o4_ReverseNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2I_starterQues/o5_reverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I2_0I_starterQues/o5_reverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2I_starterQues/o6_NumberSwappings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I2_0I_starterQues/o6_NumberSwappings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2I_starterQues/o7_Delete_Insert_Elements_inArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I2_0I_starterQues/o7_Delete_Insert_Elements_inArr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2I_starterQues/o8_identifyPalindrome_Numbers_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I2_0I_starterQues/o8_identifyPalindrome_Numbers_String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2I_starterQues/o9_Fibonacci_Series.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I2_0I_starterQues/o9_Fibonacci_Series.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I3I_Sortings/QuickSort.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,16 +84,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/__Maven - intellej codes/DSA_prevQuestions",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/__Maven - intellej codes/DSA_prevQuestions&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
