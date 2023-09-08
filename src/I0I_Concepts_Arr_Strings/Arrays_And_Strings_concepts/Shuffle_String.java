@@ -5,18 +5,18 @@ import java.util.Scanner;
 public class Shuffle_String {
     public static void main(String[] args) {
 
-// Shuffle String
-// https://course.acciojob.com/idle?question=ac357ab6-b52a-4e37-ae2e-7afac866afb7
-
+/* ex : Shuffle String https://course.acciojob.com/idle?question=ac357ab6-b52a-4e37-ae2e-7afac866afb7
+8
+acciojob
+4 5 6 7 0 2 1 3             output : oojbacci
+*/
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
         String s = in.next();
 
         // 1. take user input from array
         int [] arr = new int[n];
-        for(int i = 0; i< n; i ++) {
-            arr[i]  = in.nextInt();
-        }
+        for(int i = 0; i< n; i ++) arr[i]  = in.nextInt();
 
         // 2. now seperate characters
         char [] crr = new char[n];
