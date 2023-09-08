@@ -5,7 +5,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7a8c732-f908-4d82-bebf-e2cc3143bd19" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/Convert_arrToString_stringToArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/Shuffle_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/StringBuilding_Concepts/reverse_words_Using_String_Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I3I_2D_Array/Rotate_Matrix_By_90_degree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I3I_2D_Array/matrix_Diagonal_Concept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I3I_2D_Array/sort_The_Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I5I_HashMaps_Sets/most_occurring_char_inString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/Convert_Int_And_Strings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/Convert_Int_And_Strings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/Functions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/Functions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/String_Manipulation_Functions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/String_Manipulation_Functions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/String_all_methods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/String_all_methods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Arr_Strings/DSA_impl_useFunctions/Hashmap_Functions_impl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Arr_Strings/DSA_impl_useFunctions/Hashmap_Functions_impl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/Convert_Int_And_Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/Convert_Int_And_Strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/String_Manipulation_Functions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/String_Manipulation_Functions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/DSA_impl_useFunctions/Hashmap_Functions_impl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/DSA_impl_useFunctions/Hashmap_Functions_impl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2_0I_starterQues/o10_Nth_Number_Of_Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I2I_starterQues/o10_Nth_Number_Of_Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2_0I_starterQues/o11_Count_Characters_inString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I2I_starterQues/o11_Count_Characters_inString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2_0I_starterQues/o12_Armstrong_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I2I_starterQues/o12_Armstrong_Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2_0I_starterQues/o13_second_smallest_Element_find.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I2I_starterQues/o13_second_smallest_Element_find.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2_0I_starterQues/o14_piglatinString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I2I_starterQues/o14_piglatinString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2_0I_starterQues/o1_primeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I2I_starterQues/o1_primeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2_0I_starterQues/o2_leapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I2I_starterQues/o2_leapYear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2_0I_starterQues/o3_FactorialNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I2I_starterQues/o3_FactorialNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2_0I_starterQues/o4_ReverseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I2I_starterQues/o4_ReverseNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2_0I_starterQues/o5_reverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I2I_starterQues/o5_reverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2_0I_starterQues/o6_NumberSwappings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I2I_starterQues/o6_NumberSwappings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2_0I_starterQues/o7_Delete_Insert_Elements_inArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I2I_starterQues/o7_Delete_Insert_Elements_inArr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2_0I_starterQues/o8_identifyPalindrome_Numbers_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I2I_starterQues/o8_identifyPalindrome_Numbers_String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2_0I_starterQues/o9_Fibonacci_Series.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I2I_starterQues/o9_Fibonacci_Series.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2_1I_2D_Array/Array_2D_Searching.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I3I_2D_Array/Array_2D_Searching.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2_1I_2D_Array/Spiral_Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I3I_2D_Array/Spiral_Matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I3I_Sortings/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I7I_Sortings/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I3I_Sortings/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I7I_Sortings/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I3I_Sortings/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I7I_Sortings/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I3I_Sortings/QuickSort_REVISE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I7I_Sortings/QuickSort_REVISE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I3I_Sortings/selectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I7I_Sortings/selectionSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,16 +69,92 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/__Maven - intellej codes/DSA_remainingQues",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/__Maven - intellej codes/DSA_remainingQues&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.Spiral_Matrix">
+    <configuration name="DiagonalQues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I2_1I_2D_Array.DiagonalQues" />
+      <module name="DSA_QuesList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="I3I_2D_Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rotate_Matrix_By_90_degree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I3I_2D_Array.Rotate_Matrix_By_90_degree" />
+      <module name="DSA_QuesList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="I3I_2D_Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Spiral_Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I3I_2D_Array.Spiral_Matrix" />
+      <module name="DSA_QuesList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="I3I_2D_Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="String_Manipulation_Functions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I0I_Concepts_Arr_Strings.Arrays_And_Strings_concepts.String_Manipulation_Functions" />
+      <module name="DSA_QuesList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="I0I_Concepts_Arr_Strings.Arrays_And_Strings_concepts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sort_The_Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I3I_2D_Array.sort_The_Matrix" />
+      <module name="DSA_QuesList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="I3I_2D_Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Spiral_Matrix" />
+        <item itemvalue="Application.sort_The_Matrix" />
+        <item itemvalue="Application.DiagonalQues" />
+        <item itemvalue="Application.Rotate_Matrix_By_90_degree" />
+        <item itemvalue="Application.String_Manipulation_Functions" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

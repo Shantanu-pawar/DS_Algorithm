@@ -5,9 +5,9 @@ import java.util.Map;
 public class Hashmap_Functions_impl {
     public static void main(String[] args) {
         int[] arr = {1, 2, 5, 5, 5, 1};
-        iteration(arr);
+//        iteration(arr);
 
-        String str = "Surrender on road";
+        String str = "Surrroad";
         printDuplicates(str);
     }
 
@@ -37,17 +37,20 @@ public class Hashmap_Functions_impl {
             System.out.print(a + " ");
     }
 
+//    we also use : map.put(ch, map.getOrDefault(ch, 0) + 1 )
+//    map.get(x) : :  mean's it return's how many time's element is repeated
+
     public static void printDuplicates(String str) {
 
         System.out.println("\n this is printing duplicate's characters from string : ");
         HashMap<Character, Integer> map = new HashMap<>();
+
         for (int i = 0; i < str.length(); i++) {
             char c = str.charAt(i);
 
             if (map.containsKey(c)) map.put(c, map.get(c) + 1);
             else map.put(c, 1);
         }
-
         System.out.println(map);
     }
 }
