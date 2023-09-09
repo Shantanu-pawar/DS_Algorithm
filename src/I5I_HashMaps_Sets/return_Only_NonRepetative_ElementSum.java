@@ -19,8 +19,10 @@ public class return_Only_NonRepetative_ElementSum {
         int n = arr.length;
         System.out.println(findSum(arr, n));
     }
+
     /*there is one more approach:
-    * sort the arr using function and then check if arr[i] != arr[i+1] then add the sum  TC = (N log n)*/
+    * sort the arr using function, and then check if arr[i] != arr[i+1] then add the sum  TC = (N log n)*/
+
     public static int findSum(int []arr, int n){ // TC : O(N) SPACE : O(N)
         Map<Integer, Integer> map = new HashMap<>();
         for(int i : arr){

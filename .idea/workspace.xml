@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7a8c732-f908-4d82-bebf-e2cc3143bd19" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/Shuffle_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/Shuffle_String.java" afterDir="false" />
-    </list>
+    <list default="true" id="d7a8c732-f908-4d82-bebf-e2cc3143bd19" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,13 +41,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Spiral_Matrix">
-    <configuration name="DiagonalQues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="I2_1I_2D_Array.DiagonalQues" />
+  <component name="RunManager" selected="Application.count_pair_with_given_Difference">
+    <configuration name="count_Pair_with_given_sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I5I_HashMaps_Sets.count_Pair_with_given_sum" />
       <module name="DSA_QuesList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="I3I_2D_Array.*" />
+          <option name="PATTERN" value="I5I_HashMaps_Sets.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +55,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rotate_Matrix_By_90_degree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="I3I_2D_Array.Rotate_Matrix_By_90_degree" />
+    <configuration name="count_pair_with_given_Difference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I5I_HashMaps_Sets.count_pair_with_given_Difference" />
       <module name="DSA_QuesList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="I3I_2D_Array.*" />
+          <option name="PATTERN" value="I5I_HashMaps_Sets.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Spiral_Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="I3I_2D_Array.Spiral_Matrix" />
+    <configuration name="methodInvocation_objectCreation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I0I_OOPs.methodInvocation_objectCreation" />
       <module name="DSA_QuesList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="I3I_2D_Array.*" />
+          <option name="PATTERN" value="I0I_OOPs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String_Manipulation_Functions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="I0I_Concepts_Arr_Strings.Arrays_And_Strings_concepts.String_Manipulation_Functions" />
+    <configuration name="return_Only_NonRepetative_ElementSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I5I_HashMaps_Sets.return_Only_NonRepetative_ElementSum" />
       <module name="DSA_QuesList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="I0I_Concepts_Arr_Strings.Arrays_And_Strings_concepts.*" />
+          <option name="PATTERN" value="I5I_HashMaps_Sets.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sort_The_Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="I3I_2D_Array.sort_The_Matrix" />
+    <configuration name="store_Pairs_using_2D_ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I0I_Concepts_Arr_Strings.DSA_impl_useFunctions.store_Pairs_using_2D_ArrayList" />
       <module name="DSA_QuesList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="I3I_2D_Array.*" />
+          <option name="PATTERN" value="I0I_Concepts_Arr_Strings.DSA_impl_useFunctions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Spiral_Matrix" />
-        <item itemvalue="Application.sort_The_Matrix" />
-        <item itemvalue="Application.DiagonalQues" />
-        <item itemvalue="Application.Rotate_Matrix_By_90_degree" />
-        <item itemvalue="Application.String_Manipulation_Functions" />
+        <item itemvalue="Application.count_pair_with_given_Difference" />
+        <item itemvalue="Application.return_Only_NonRepetative_ElementSum" />
+        <item itemvalue="Application.store_Pairs_using_2D_ArrayList" />
+        <item itemvalue="Application.count_Pair_with_given_sum" />
+        <item itemvalue="Application.methodInvocation_objectCreation" />
       </list>
     </recent_temporary>
   </component>
