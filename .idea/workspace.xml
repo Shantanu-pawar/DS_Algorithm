@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7a8c732-f908-4d82-bebf-e2cc3143bd19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/I5I_HashMaps_Sets/print_all_single_NonRepeatative_chars_fromString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I5I_HashMaps_Sets/shuffle_String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I5I_HashMaps_Sets/most_occurring_char_inString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/I5I_HashMaps_Sets/most_occurring_char_inString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I5I_HashMaps_Sets/return_Only_NonRepetative_ElementSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/I5I_HashMaps_Sets/return_Only_NonRepetative_ElementSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/DSA_impl_useFunctions/Hashmap_Functions_impl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/DSA_impl_useFunctions/Hashmap_Functions_impl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/I5I_HashMaps_Sets/most_occurring_char_inString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I5I_HashMaps_Sets/most_occurring_char_inString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/I5I_HashMaps_Sets/return_Only_NonRepetative_ElementSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I5I_HashMaps_Sets/return_Only_NonRepetative_ElementSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
