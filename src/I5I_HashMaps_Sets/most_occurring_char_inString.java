@@ -3,16 +3,18 @@ package I5I_HashMaps_Sets;
 /* Approach : it return the value of character's
               ex : 'a'-'a' = 0;
                    'b'-'a' = 1;
-here we're mapping every character to it's index and then store it's value in the arr and
-then it will store the frequencies of repeatating element's in perticular indexes   */
+here we're mapping every character to it's index and then store its value in the arr */
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
-import java.util.Calendar;
 import java.util.HashMap;
 import java.util.Map;
 
 public class most_occurring_char_inString {
+    public static void main(String[] args) {
+        String str = "abcazbbbzzz";
+        int n = str.length();
+        usingHashmap(str, n);
+    }
 
     static void usingHashmap(String str, int n){
         HashMap<Character, Integer> map = new HashMap<>();
@@ -23,16 +25,18 @@ public class most_occurring_char_inString {
             else  map.put(ch, 1);
         }
 
-        // case : now here we're traversing and finding maxi repetations
+        // case : now here we're traversing and finding maxi repeat
         int max = 0;
         String ans = "";
         for(Character ch : map.keySet()) {
             if(max < map.get(ch) )
-                max = map.get(ch); // store repeatations no
+                max = map.get(ch); // find max char out of stored chars
         }
 
+        // this condition satisfies what if two chars have same max repetitions.
         for(Map.Entry<Character, Integer> entry : map.entrySet()){
-            if(entry.getValue() == max) ans += entry.getKey();
+            if(entry.getValue() == max)
+                ans += entry.getKey();
         }
 
         System.out.println(ans);
@@ -63,11 +67,5 @@ public class most_occurring_char_inString {
             }
         }
         System.out.println(max + " and the character is : " + ans);
-    }
-
-    public static void main(String[] args) {
-        String str = "abcazbbbzzz";
-        int n = str.length();
-        usingHashmap(str, n);
     }
 }

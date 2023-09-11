@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7a8c732-f908-4d82-bebf-e2cc3143bd19" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/I5I_HashMaps_Sets/print_all_single_NonRepeatative_chars_fromString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I5I_HashMaps_Sets/shuffle_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/I7I_Sortings/QuickSort_REVISE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I7I_Sortings/QuickSort_REVISE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I5I_HashMaps_Sets/most_occurring_char_inString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/I5I_HashMaps_Sets/most_occurring_char_inString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I5I_HashMaps_Sets/return_Only_NonRepetative_ElementSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/I5I_HashMaps_Sets/return_Only_NonRepetative_ElementSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/DSA_impl_useFunctions/Hashmap_Functions_impl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/DSA_impl_useFunctions/Hashmap_Functions_impl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I5I_HashMaps_Sets/most_occurring_char_inString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I5I_HashMaps_Sets/most_occurring_char_inString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I5I_HashMaps_Sets/return_Only_NonRepetative_ElementSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I5I_HashMaps_Sets/return_Only_NonRepetative_ElementSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,22 +51,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.QuickSort_REVISE">
-    <configuration name="QuickSort_REVISE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="I7I_Sortings.QuickSort_REVISE" />
+  <component name="RunManager" selected="Application.shuffle_String">
+    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice" />
       <module name="DSA_QuesList" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="I7I_Sortings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="count_pair_with_given_Difference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="I5I_HashMaps_Sets.count_pair_with_given_Difference" />
+    <configuration name="most_occurring_char_inString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I5I_HashMaps_Sets.most_occurring_char_inString" />
       <module name="DSA_QuesList" />
       <extension name="coverage">
         <pattern>
@@ -71,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="find_char_present_inString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="I5I_HashMaps_Sets.find_char_present_inString" />
+    <configuration name="print_all_single_NonRepeatative_chars_fromString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I5I_HashMaps_Sets.print_all_single_NonRepeatative_chars_fromString" />
       <module name="DSA_QuesList" />
       <extension name="coverage">
         <pattern>
@@ -97,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="store_Pairs_using_2D_ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="I0I_Concepts_Arr_Strings.DSA_impl_useFunctions.store_Pairs_using_2D_ArrayList" />
+    <configuration name="shuffle_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I5I_HashMaps_Sets.shuffle_String" />
       <module name="DSA_QuesList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="I0I_Concepts_Arr_Strings.DSA_impl_useFunctions.*" />
+          <option name="PATTERN" value="I5I_HashMaps_Sets.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.QuickSort_REVISE" />
-        <item itemvalue="Application.find_char_present_inString" />
-        <item itemvalue="Application.count_pair_with_given_Difference" />
+        <item itemvalue="Application.shuffle_String" />
+        <item itemvalue="Application.Practice" />
+        <item itemvalue="Application.most_occurring_char_inString" />
+        <item itemvalue="Application.print_all_single_NonRepeatative_chars_fromString" />
         <item itemvalue="Application.return_Only_NonRepetative_ElementSum" />
-        <item itemvalue="Application.store_Pairs_using_2D_ArrayList" />
       </list>
     </recent_temporary>
   </component>
