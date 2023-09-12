@@ -5,7 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7a8c732-f908-4d82-bebf-e2cc3143bd19" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Arr_String_Ques/Q_merge_sorted_arr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/StringBuilding_Concepts/StringTokeniser_Concept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/StringBuilding_Concepts/impl_Documentation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/StringBuilding_Concepts/print_string_inOpposite_Ordering.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/StringBuilding_Concepts/stringBuffer_palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I6I_Stacks_Queues/Stacks_BracketCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I8I_LinkedList/Circular_LL/Circular_LL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I8I_LinkedList/Doubly_LL/doubly_LL_impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I8I_LinkedList/Singly_LL/singly_LL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I8I_LinkedList/Singly_LL/singly_LL_withoutTail.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/Convert_Int_And_Strings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/Functions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/Inplace_Reversals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/StringBuilding_Concepts/reverse_words_Using_String_Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/inplaceArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/inplaceString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I5I_HashMaps_Sets/shuffle_String.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/I5I_HashMaps_Sets/shuffle_String.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/PAINDING/mergeSortedArr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/StringBuilding_Concepts/reverse_words_Using_String_Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/StringBuilding_Concepts/reverse_words_Using_String_Builder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I5I_HashMaps_Sets/shuffle_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I5I_HashMaps_Sets/shuffle_String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PAINDING/mergeSortedArr.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,20 +64,21 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.shuffle_String">
-    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice" />
-      <module name="DSA_QuesList" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="most_occurring_char_inString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="I5I_HashMaps_Sets.most_occurring_char_inString" />
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="I8I_LinkedList.Singly_LL" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\__Maven - intellej codes\DSA_QuesList\src\I8I_LinkedList\Singly_LinkedList" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Circular_LL (4)">
+    <configuration name="Circular_LL (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I8I_LinkedList.Circular_LL.Circular_LL" />
       <module name="DSA_QuesList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="I5I_HashMaps_Sets.*" />
+          <option name="PATTERN" value="I8I_LinkedList.Circular_LL.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="print_all_single_NonRepeatative_chars_fromString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="I5I_HashMaps_Sets.print_all_single_NonRepeatative_chars_fromString" />
+    <configuration name="Circular_LL (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I8I_LinkedList.Circular_LL.Circular_LL" />
       <module name="DSA_QuesList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="I5I_HashMaps_Sets.*" />
+          <option name="PATTERN" value="I8I_LinkedList.Circular_LL.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="return_Only_NonRepetative_ElementSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="I5I_HashMaps_Sets.return_Only_NonRepetative_ElementSum" />
+    <configuration name="Circular_LL (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I8I_LinkedList.Circular_LL.Circular_LL" />
       <module name="DSA_QuesList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="I5I_HashMaps_Sets.*" />
+          <option name="PATTERN" value="I8I_LinkedList.Circular_LL.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +112,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="shuffle_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="I5I_HashMaps_Sets.shuffle_String" />
+    <configuration name="Circular_LL (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I8I_LinkedList.Circular_LL.Circular_LL" />
       <module name="DSA_QuesList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="I5I_HashMaps_Sets.*" />
+          <option name="PATTERN" value="I8I_LinkedList.Circular_LL.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Circular_LL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I8I_LinkedList.Circular_LL.Circular_LL" />
+      <module name="DSA_QuesList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="I8I_LinkedList.Circular_LL.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="singly_LL_withoutTail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I8I_LinkedList.singly_LL_withoutTail" />
+      <module name="DSA_QuesList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="I8I_LinkedList.Doubly_LL.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.shuffle_String" />
-        <item itemvalue="Application.Practice" />
-        <item itemvalue="Application.most_occurring_char_inString" />
-        <item itemvalue="Application.print_all_single_NonRepeatative_chars_fromString" />
-        <item itemvalue="Application.return_Only_NonRepetative_ElementSum" />
+        <item itemvalue="Application.Circular_LL (4)" />
+        <item itemvalue="Application.Circular_LL (3)" />
+        <item itemvalue="Application.Circular_LL (2)" />
+        <item itemvalue="Application.Circular_LL (1)" />
+        <item itemvalue="Application.Circular_LL" />
       </list>
     </recent_temporary>
   </component>

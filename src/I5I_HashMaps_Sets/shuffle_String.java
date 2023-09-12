@@ -21,11 +21,13 @@ public class shuffle_String {
     }
 
     static void usingArrConcept(String str, int []arr){
-        char []charArr = new char[str.length()]; // we fill all char's in new charArr with proper index
+        char []charArr = new char[str.length()];
 
         for (int i = 0; i < str.length(); i++) {
             int index = arr[i];
             char ch = str.charAt(i);
+
+            // here we filled ch to it's proper index in char arr.
             charArr[index] = ch;
         }
 
@@ -45,7 +47,7 @@ public class shuffle_String {
         // note : entry.getKey() - print's all arr in sorted format
         //       entry.getValue() = print all character's from hashmap
 
-        // entryset print's all indexes in sorted manner
+        // entry set print's all indexes in sorted manner
         for (Map.Entry<Integer, Character> entry : map.entrySet())
             System.out.print(entry.getValue());
 

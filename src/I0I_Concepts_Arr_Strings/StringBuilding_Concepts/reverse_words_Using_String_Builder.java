@@ -1,4 +1,4 @@
-package I0I_Concepts_Arr_Strings.Arrays_And_Strings_concepts.StringBuilding_Concepts;
+package I0I_Concepts_Arr_Strings.StringBuilding_Concepts;
 
 public class reverse_words_Using_String_Builder {
     public static void main(String[] args) {
