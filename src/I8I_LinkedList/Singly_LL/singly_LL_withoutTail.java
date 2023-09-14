@@ -25,7 +25,7 @@ public class singly_LL_withoutTail {
         list.deleteHead();
         list.display();
 
-        list.deleteAtPosition(9);
+        list.deleteAtPosition(5);
         list.display();
 
     }

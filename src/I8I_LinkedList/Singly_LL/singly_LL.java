@@ -64,8 +64,8 @@ class LL{
             System.out.println("you Entered wrong position."); return;
         }
 
-        node.next = temp.next;
         temp.next = node;
+        node.next = temp.next;
     }
 
 
