@@ -5,23 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7a8c732-f908-4d82-bebf-e2cc3143bd19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/I8I_LinkedList/compare_two_LinkedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I9I_Recursion/o10_remove_Target_Char_From_String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I9I_Recursion/o1_factorial_of_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I9I_Recursion/o2_fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I9I_Recursion/o3_reverse_String_using_Recursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I9I_Recursion/o4_check_Array_is_palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I9I_Recursion/o5_reverse_a_Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I9I_Recursion/o6_count_all_digits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I9I_Recursion/o7_reverse_an_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I9I_Recursion/o8_check_arr_is_Sorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I9I_Recursion/o9_store_indexes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I9I_Recursion/o_remove_X_from_Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I9I_Recursion/o11_bunnyEars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I9I_Recursion/o12_pairStar_Painding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I9I_Recursion/o13_recursive_digit_sum_Painding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I9I_Recursion/o14_helloRecur_Painding.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I8I_LinkedList/Circular_LL/LL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/I8I_LinkedList/Circular_LL/LL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Practice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/I8I_LinkedList/Circular_LL/Circular_LL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I8I_LinkedList/Circular_LL/Circular_LL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,16 +37,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/__Maven - intellej codes/DSA_QuesList&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/__Maven - intellej codes/DSA_remainingQues",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="I8I_LinkedList.Singly_LL" />

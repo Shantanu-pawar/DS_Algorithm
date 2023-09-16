@@ -1,3 +1,5 @@
+package PAINDING;
+
 import java.util.HashMap;
 import java.util.Scanner;
 
