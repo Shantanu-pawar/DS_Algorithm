@@ -98,7 +98,6 @@ class LL{
         size++;
     }
 
-// complete this function.
     void insertAtHead(int val){
         Node node = new Node(val);
         if(head == null){
