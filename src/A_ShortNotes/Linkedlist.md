@@ -7,9 +7,10 @@ and insert all elements
 2. Array is fixed size data structure.
 
 ## what is linkedList
-`defination` : linked-list is linear data structure
-that we can grow and shrink at run time. it's a collection of multiple nodes which are 
-linked to each other. <br>
+`defination` : linked-list is linear data structure used to store collection of elements
+that we can grow and shrink at run time.
+
+it's a collection of multiple nodes which are linked to each other. <br>
 in LinkedList each node contains some data, and reference pointer to the next node.
 
 <br>
@@ -21,12 +22,18 @@ otherwise we will take `O(N)` time.
 <br> <br>
 
 `features | advantages of linkedlist ?` <br>
-linked-lists are dynamic in nature, and their size is adjusted according to our requirement.
+1. linked-lists are dynamic in nature, and their size is adjusted according to our requirement.
+2. memory consumption of linkedlist is efficient as it's asize can grow or shrink dynamically 
+according to our requirement.
+
+`dis Advantages ?` <br>
+A node in linked list occupies more memory than an element in array as each node
+occupies at least two information like data and next node's reference variable.
+
 
 ### uses of linked-list in real life.
 ___
-1. various data structure can be implemented using linked list such as stacks | Queues | hashmap etc.
-2. memory consumption of linked list is efficient as it's size can grow and shrink accordingly to requirement.
+various data structure can be implemented using linked list such as stacks | Queues | hashmap etc.
 
 ### Also remember to practice
 ___
