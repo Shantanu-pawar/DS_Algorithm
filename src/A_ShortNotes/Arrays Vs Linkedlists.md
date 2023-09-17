@@ -1,0 +1,1 @@
+![arr vs linkedlist difference.png](../Z_imgs/arr%20vs%20linkedlist%20difference.png)
