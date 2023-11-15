@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7a8c732-f908-4d82-bebf-e2cc3143bd19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/MathsQues/find_a_repetation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I9I_Recursion/o10_remove_Target_Char_From_String.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/I9I_Recursion/o10_remove_Target_Char_From_String.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A_ShortNotes/Arrays Vs Linkedlists.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A_ShortNotes/Arrays.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A_ShortNotes/Graph.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A_ShortNotes/Hashmap.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A_ShortNotes/Linkedlist.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A_ShortNotes/Queues.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A_ShortNotes/stack.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A_ShortNotes/tree.md" beforeDir="false" />
-    </list>
+    <list default="true" id="d7a8c732-f908-4d82-bebf-e2cc3143bd19" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
