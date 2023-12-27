@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7a8c732-f908-4d82-bebf-e2cc3143bd19" name="Changes" comment="" />
+    <list default="true" id="d7a8c732-f908-4d82-bebf-e2cc3143bd19" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/I5I_HashMaps_Sets/Longest_subarray_with_sumK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I5I_HashMaps_Sets/MaximumFreqCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I5I_HashMaps_Sets/countNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/A_ShortNotes/Arrays Vs Linkedlists.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/A_ShortNotes/Arrays.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/A_ShortNotes/Graph.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/A_ShortNotes/Hashmap.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/A_ShortNotes/Linkedlist.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/A_ShortNotes/Queues.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/A_ShortNotes/stack.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/A_ShortNotes/tree.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Arr_String_Ques/Q_merge_sorted_arr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Arr_String_Ques/Q_merge_sorted_arr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arr_String_Ques/Q_merge_sorted_arr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arr_String_Ques/Q_merge_sorted_arr.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,16 +46,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/__Maven - intellej codes/DSA_QuesList&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/__Maven - intellej codes/DSA_remainingQues",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="I8I_LinkedList.Singly_LL" />
@@ -52,7 +67,46 @@
       <recent name="D:\__Maven - intellej codes\DSA_QuesList\src\I8I_LinkedList\Singly_LinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.find_a_repetation">
+  <component name="RunManager" selected="Application.countNumbers">
+    <configuration name="MaximumFreqCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I5I_HashMaps_Sets.MaximumFreqCharacter" />
+      <module name="DSA_QuesList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="I5I_HashMaps_Sets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q_merge_sorted_arr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arr_String_Ques.Q_merge_sorted_arr" />
+      <module name="DSA_QuesList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arr_String_Ques.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="countNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I5I_HashMaps_Sets.countNumbers" />
+      <module name="DSA_QuesList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="I5I_HashMaps_Sets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="find_a_repetation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="I0I_Concepts_Arr_Strings.MathsQues.find_a_repetation" />
       <module name="DSA_QuesList" />
@@ -79,52 +133,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="o6_count_all_digits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="I9I_Recursion.o6_count_all_digits" />
-      <module name="DSA_QuesList" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="I9I_Recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="o8_check_arr_is_Sorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="I9I_Recursion.o8_check_arr_is_Sorted" />
-      <module name="DSA_QuesList" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="I9I_Recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="o9_store_indexes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="I9I_Recursion.o9_store_indexes" />
-      <module name="DSA_QuesList" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="I9I_Recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.countNumbers" />
+        <item itemvalue="Application.MaximumFreqCharacter" />
+        <item itemvalue="Application.Q_merge_sorted_arr" />
         <item itemvalue="Application.find_a_repetation" />
         <item itemvalue="Application.o10_remove_Target_Char_From_String" />
-        <item itemvalue="Application.o6_count_all_digits" />
-        <item itemvalue="Application.o9_store_indexes" />
-        <item itemvalue="Application.o8_check_arr_is_Sorted" />
       </list>
     </recent_temporary>
   </component>

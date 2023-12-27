@@ -28,7 +28,7 @@ public class Q_merge_sorted_arr {
         int []arr2 = {2, 8, 2, 5, 9, 6};
         int n2 = arr2.length;
 
-        int[] ans = new int[n1+n2];
+        int[] ans = new int[n1+n2]; // first created new answer arr and passed into fun.
         alternateMerge(arr1, arr2, n1, n2, ans);
     }
 
@@ -37,8 +37,11 @@ public class Q_merge_sorted_arr {
         int k = 0;
         int i = 0; int j = 0;
         while(i < n  && j < m) {
-            ans[k++] = arr1[i++];
-            ans[k++] = arr2[j++];
+
+            if(arr1[i] > arr2[j]){
+                ans[k++] = arr1[i++];
+            }
+            else ans[k++] = arr2[j++];
         }
 
         while(i < n) ans[k++] = arr1[i++];
