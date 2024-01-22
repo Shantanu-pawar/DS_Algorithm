@@ -8,11 +8,10 @@ public class o4_ReverseNumber {
         int rem = 0;
 
         while(n != 0) {
-            rem = n % 10;
-            newNo = newNo * 10 + rem;
-            n = n / 10;
+            rem = n % 10; // take last digit
+            n = n / 10; // cut last no
+            newNo = newNo * 10 + rem; // add into new no.
         }
-
         System.out.println(newNo);
     }
 }

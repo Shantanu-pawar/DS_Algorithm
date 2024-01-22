@@ -9,17 +9,17 @@ import java.util.Arrays;
 public class Convert_arrToString_stringToArr {
     public static void main(String[] args) {
 
-
 //      method : convert Arr to string :: very helpful method
         char []ch = {'a', 'd', 'e', 'd', 'q'};
         System.out.println(new String(ch));
 
-        // approach 1:
+        // approach 1: convert string into character Arr
         String str = "hello world";
-        char []arr = new char[str.length()];
 
+        char []arr = new char[str.length()]; // initialise the char arr
         for(int i=0; i<str.length() ; i++)
             arr[i] = str.charAt(i);
+
         System.out.print(Arrays.toString(arr));
 
 
@@ -27,8 +27,8 @@ public class Convert_arrToString_stringToArr {
         System.out.print("\n another approach \n");
 
         String st = "this is new one";
-        char [] c = st.toCharArray();
-        for(char a : c) System.out.print(a + " ");
+        char [] cArr = st.toCharArray();
+        for(char a : cArr) System.out.print(a + " ");
     }
 }
 

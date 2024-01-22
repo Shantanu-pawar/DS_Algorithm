@@ -10,7 +10,7 @@ public class Arr_Element_Copy {
         int []copy = arr;
 
 
-        arr[5] = 100;  // lession : after updating the arr value we can still access the updated arr.
+        arr[5] = 100;  // lesson : after updating the arr value we can still access the updated arr.
 
         System.out.println(Arrays.toString(arr));
         System.out.println(Arrays.toString(copy));

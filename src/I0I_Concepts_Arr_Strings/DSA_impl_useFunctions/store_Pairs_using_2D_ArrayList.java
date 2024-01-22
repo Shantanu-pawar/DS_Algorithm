@@ -5,14 +5,15 @@ import java.util.List;
 
 public class store_Pairs_using_2D_ArrayList {
     public static void main(String[] args) {
-        int[] array = {4, 2, 5, 1, 3, 3};
-        int k = 6;
+        int[] array = {4, 12, 5, 1, 3, 3};
+        int sum = 6;
 
         List<List<Integer>> pairsList = new ArrayList<>();
 
         for (int i = 0; i < array.length; i++) {
             for (int j = i + 1; j < array.length; j++) {
-                if (array[i] + array[j] == k) {
+
+                if (array[i] + array[j] == sum) {
                     List<Integer> pair = new ArrayList<>();
                     pair.add(array[i]);
                     pair.add(array[j]);

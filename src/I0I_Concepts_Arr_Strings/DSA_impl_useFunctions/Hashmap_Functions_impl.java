@@ -4,51 +4,65 @@ import java.util.Map;
 
 public class Hashmap_Functions_impl {
     public static void main(String[] args) {
-        int[] arr = {1, 2, 5, 5, 5, 1};
-//        iteration(arr);
+// Question : hashmap functions handling
 
-        String str = "Surrroad";
-        printDuplicates(str);
+        String str = "manipullation";
+//        printDuplicateChars(str);
+
+        int []arr = {23,34,23,23,23,12};
+        printDuplicateIntegers(arr);
     }
 
-    public static void iteration(int[] arr) {
+    static void printDuplicateIntegers(int []arr){
         HashMap<Integer, Integer> map = new HashMap<>();
 
-        // Approach 1:
-        for (int x : arr) {
-            if (map.containsKey(x)) map.put(x, map.get(x) + 1);
-            else map.put(x, 1);
+        for (int i = 0; i < arr.length; i++) {
+            // this will check the values of the key and update it
+            map.put(arr[i], map.getOrDefault(arr[i], 0) +1);
         }
-
-        System.out.println(map);
 
 //        print Using entrySet
         for (Map.Entry<Integer, Integer> e : map.entrySet()) {
-            System.out.println("the key is :" + e.getKey() + " :: and value is " + e.getValue());
+            System.out.println("the key is :" + e.getKey() +
+                    " :: and value is " + e.getValue());
         }
 
 //        Another way to print
-        System.out.print("\n Print all keys : ");
         for (int a : map.keySet())
+            if(map.get(a) == 1)
+                System.out.print(a + " : is the key and the value is : " + map.get(a));
 
-            if(map.get(a) == 1)  // it will return the object value
-            System.out.print(a + " ");
 
-        System.out.print("\n Print all values : ");
-        for (int a : map.values())
-            System.out.print(a + " ");
+        // here we finding maximum element's freq
+        int  value = 0, freq = 0;
+        for(int ans : map.keySet()){
+            if(map.get(ans) > freq){
+                freq = map.get(ans); value = ans;
+            }
+        }
+        System.out.println(value + " is the value and freq is : " + freq);
     }
 
-    public static void printDuplicates(String str) {
 
-        System.out.println("\n this is printing duplicate's characters from string : ");
+    static void printDuplicateChars(String str){
+
         HashMap<Character, Integer> map = new HashMap<>();
 
-        // shortcut way to store elements using map.getOrDefault() method
         for (int i = 0; i < str.length(); i++) {
-            char c = str.charAt(i);
-            map.put(c, map.getOrDefault(c,0) + 1); // here no need of else statement.
+            char ch = str.charAt(i);
+
+            if(map.containsKey(ch))
+                map.put(ch, (map.get(ch)+1));
+
+            else map.put(ch, 1);
         }
-        System.out.println(map);
+
+
+        for(char ch : map.keySet()) {
+            if (map.get(ch) > 1) {
+                System.out.println(ch + " " + map.get(ch));
+            }
+        }
+
     }
 }

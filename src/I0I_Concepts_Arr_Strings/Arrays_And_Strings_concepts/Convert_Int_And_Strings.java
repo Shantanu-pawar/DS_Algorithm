@@ -9,13 +9,13 @@ public class Convert_Int_And_Strings {
 }
 
 class Functions{
-    static void convertStringIntoArr(){ // concept : convert string number's into character number's.
+    static void convertStringIntoArr() { // concept : convert string number's into character number's.
         String st = "121233";
-        int []arr = new int[st.length()];
+        int[] arr = new int[st.length()];
 
-        for(int i=0; i<st.length(); i++) {
+        for (int i = 0; i < st.length(); i++) {
             char ch = st.charAt(i);
-            arr[i] = ch-'0'; // it converts char to int
+            arr[i] = ch - '0'; // it converts char to int
         }
         System.out.println(Arrays.toString(arr));
     }
@@ -48,8 +48,5 @@ class Functions{
         String ans = String.valueOf(ab);
         System.out.println(ans);
 
-        for (int i = 0; i < ans.length(); i++) {
-            System.out.print(ans.charAt(i) + " ");
-        }
     }
 }

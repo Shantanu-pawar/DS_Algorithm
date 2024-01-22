@@ -31,8 +31,9 @@ public class o7_Delete_Insert_Elements_inArr {
     static void optimisedRemoval(int []arr, int delete){
 
         int count = 0;
-        int ans[] = new int[arr.length-1];
+        int [] ans = new int[arr.length-1];
         int k = 0;
+
         for(int i=0; i<= ans.length; i++){
 
             if(arr[i] == delete) {

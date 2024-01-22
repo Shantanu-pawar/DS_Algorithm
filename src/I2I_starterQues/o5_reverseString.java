@@ -6,8 +6,9 @@ public class o5_reverseString {
         String name = "dada";
         String ans = "";
 
-        for(int i =name.length()-1; i>=0 ; i--) {
+        // another approach : we can directly convert it into char arr and then swap inplace.
 
+        for(int i =name.length()-1; i>=0 ; i--) {
             char ch = name.charAt(i); // for specifying index in string
             ans += ch;
         }

@@ -7,7 +7,7 @@ public class Inplace_Reversals {
         int []arr = {4, 2, 6, 1};
         int n = arr.length;
         inplaceArray.reverse(arr, n);
-        inplaceString.reverse("heyy dad i bought new mustang");
+        inplaceString.reverse("hey dad i bought new mustang");
     }
 }
 
@@ -37,7 +37,6 @@ class inplaceString {
         char[] ch = str.toCharArray();
 
         int i = 0;  int j = ch.length - 1;
-
         while (i < j) {
             swap(ch, i, j);
             i++; j--;

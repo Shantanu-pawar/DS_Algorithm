@@ -1,33 +1,32 @@
 package I0I_Concepts_Arr_Strings.DSA_impl_useFunctions;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 public class ArrayList_functions {
-
     public static void main(String[] args) {
 
-        List <Integer> df  = List.of(2 ,3 ,4 ,5 ,6 , 7, 8); // use List.of to add multiple element's
+    List<Integer> list = new ArrayList<>(
+            List.of(2,3,4,5,6,7,8,9)
+    );
 
-        List<Integer> al = new ArrayList<>();
-        al.add(2230);
-        al.add(2);
-        al.add(23);
-        al.add(23);
-        al.add(23);
-        al.add(22);
-        al.add(213);
-        System.out.println(al);
+    // this is also new method to print arraylist
+    List<Integer> li = Arrays.asList(232,34,3);
 
-        al.remove(0);
-        System.out.println(al);
+        System.out.println(list);
+        System.out.println(list.size() + " : is the size of this list");
+
+        list.remove(0);
+        list.add(212121);
+        System.out.println(list);
+
+
+        System.out.println(li);
 
         System.out.println("\n print specific elements from arraylist");
         for (int i = 3; i < 5; i++) {
-            System.out.print(al.get(i) + " ");
-        }
-
-        System.out.println("\n this will print the arraylist all size of element : ");
-        System.out.println(al.size());
+        System.out.print(list.get(i) + " ");
     }
+}
 }

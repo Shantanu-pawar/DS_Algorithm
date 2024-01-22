@@ -32,14 +32,10 @@ public class String_all_methods {
     }
 
     static void replace(){
-//   replace() = it replaces all the occurs of given char(s) by another char(S)
-//   NOTE :  we can also used this for replacing the characters like use only  ( ' ' )<- this
 
-        String d = "shantanu is very active during sessions ";
-        System.out.println("Previous String : " + d);
-
-        String d1 = d.replace("shantanu", "rajjjjjaaaa");
-        System.out.println("New String : " + d1 );
+        String str  = "acciojob";
+        String ans = str.replace("cc", "O");
+        System.out.println(ans);
     }
 
     static void concat(){

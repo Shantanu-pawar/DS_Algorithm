@@ -5,42 +5,18 @@ import java.util.Scanner;
 public class o1_primeNumber {
     public static void main(String[] args) {
 
-        Scanner in = new Scanner(System.in);
+        int n = 120;
+        for (int num = 1; num <= n ; num++) {
 
-        System.out.print("enter your number: ");
-        int input = in.nextInt();
-        for(int n = 1; n <= input; n++) {
-            prime(n);
-        }
+            // logic of prime number
+            boolean check = false;
 
-        // check if the number is prime?
-        System.out.println(isPrime(7));
-
-    }
-
-//    print prime numbers 1 to 100
-    static void prime(int n){
-
-        int flag = 0;
-        for(int i=2; i<n; i++) {
-            if(n % i == 0) flag += 1;
-        }
-
-        if(flag == 0) System.out.print(n + " ");
-    }
-
-    static String isPrime(int n){
-        boolean flag = true;
-
-        for (int i = 2; i < n-1; i++) {
-            if(n % i == 0) {
-               flag = false;
+            for (int i = 2; i < num-1; i++){
+                if(num % i == 0) {
+                    check = true; break;
+                }
             }
+            if(check == false) System.out.print(num + " ");
         }
-
-        if(flag == true) {
-            return "\n it's prime numb";
-        }else return "\n Not prime number";
     }
-
 }
