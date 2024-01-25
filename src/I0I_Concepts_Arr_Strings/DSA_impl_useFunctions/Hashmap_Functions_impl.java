@@ -33,7 +33,7 @@ public class Hashmap_Functions_impl {
                 System.out.print(a + " : is the key and the value is : " + map.get(a));
 
 
-        // here we finding maximum element's freq
+        // here we're finding maximum element's freq
         int  value = 0, freq = 0;
         for(int ans : map.keySet()){
             if(map.get(ans) > freq){
