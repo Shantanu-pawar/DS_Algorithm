@@ -1,58 +1,35 @@
-package I0I_OOPs;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.stereotype.Component;
 
-// Engine interface
-interface Engine {
-    void start();
-}
+@SpringBootApplication
 
-// GasEngine implementation
-class GasEngine implements Engine {
-    @Override
-    public void start() {
-        System.out.println("Starting Gas Engine");
-        // Gas engine specific implementation
-    }
-}
-
-// ElectricEngine implementation
-class ElectricEngine implements Engine {
-    @Override
-    public void start() {
-        System.out.println("Starting Electric Engine");
-        // Electric engine specific implementation
-    }
-}
-
-// Car class with Dependency Injection
-class Car {
-    private Engine engine;
-
-    // Constructor with Engine parameter for Dependency Injection
-    public Car(Engine engine) {
-        this.engine = engine;
-    }
-
-    // Method that uses the injected engine
-    public void startCar() {
-        System.out.println("Starting the car...");
-        engine.start(); // Using the injected engine
-    }
-}
-
-// Main class to demonstrate the usage
-public class Dependency_injection_impl {
+public class MySpringBootApplication {
 
     public static void main(String[] args) {
-        // Creating instances of different engines
-        Engine gasEngine = new GasEngine();
-        Engine electricEngine = new ElectricEngine();
+        SpringApplication.run(MySpringBootApplication.class, args);
+    }
+}
 
-        // Creating cars with different engines using Dependency Injection
-        Car carWithGasEngine = new Car(gasEngine);
-        Car carWithElectricEngine = new Car(electricEngine);
+@Component
+class Dependency {
+    public void doSomething() {
+        System.out.println("Dependency is doing something...");
+    }
+}
 
-        // Starting the cars
-        carWithGasEngine.startCar();
-        carWithElectricEngine.startCar();
+@Component
+class MyComponent {
+
+    private final Dependency dependency;
+
+    @Autowired
+    public MyComponent(Dependency dependency) {
+        this.dependency = dependency;
+    }
+
+    public void performAction() {
+        dependency.doSomething();
     }
 }
