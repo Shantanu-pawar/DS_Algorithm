@@ -5,32 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7a8c732-f908-4d82-bebf-e2cc3143bd19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arr_String_Ques/check_ifStringContainsOrNot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I0I_Java8_Features/StreamAPI/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I0I_Java8_Features/StreamAPI/Stream_APIs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I0I_MultiThreading_PAINDING/ExtendingThreadClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I0I_MultiThreading_PAINDING/ImplRunnableInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Java8_Features/Functional.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Java8_Features/Functional.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Java8_Features/Functional_Interface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Java8_Features/Functional_Interface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Java8_Features/Generics.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Java8_Features/Generics.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Java8_Features/Lambda_Expression$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Java8_Features/Lambda_Expression$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Java8_Features/Lambda_Expression.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Java8_Features/Lambda_Expression.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Java8_Features/Method_References.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Java8_Features/Method_References.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o11_Count_Characters_inString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o13_second_smallest_Element_find.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o13_second_smallest_Element_find.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o5_reverseString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o5_reverseString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o7_Delete_Insert_Elements_inArr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o7_Delete_Insert_Elements_inArr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/practice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/DSA_impl_useFunctions/Hashmap_Functions_impl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/DSA_impl_useFunctions/Hashmap_Functions_impl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/I0I_MultiThreading_PAINDING/CallableInterface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/I0I_MultiThreading_PAINDING/RunnableInterface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/I2I_starterQues/o11_Count_Characters_inString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/I2I_starterQues/o13_second_smallest_Element_find.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I2I_starterQues/o13_second_smallest_Element_find.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/I2I_starterQues/o5_reverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I2I_starterQues/o5_reverseString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/I2I_starterQues/o7_Delete_Insert_Elements_inArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I2I_starterQues/o7_Delete_Insert_Elements_inArr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/I2I_starterQues/o9_Fibonacci_Series.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I2I_starterQues/o9_Fibonacci_Series.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2I_starterQues/o14_piglatinString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I2I_starterQues/o14_piglatinString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

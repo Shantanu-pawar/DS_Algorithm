@@ -2,7 +2,8 @@ package I2I_starterQues;
 
 public class o14_piglatinString {
 
-// piglatin quewstion concept :
+// pig-latin question concept :
+
 // https://youtu.be/fz5i3SrDDg0?t=50
     public static void main(String[] args) {
         String str = "pigLatine";
