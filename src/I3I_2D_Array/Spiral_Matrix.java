@@ -6,7 +6,8 @@ public class Spiral_Matrix {
     public static void main (String[] args) throws java.lang.Exception{
         Scanner in = new Scanner (System.in);
 
-        int [][] arr  = {{11, 12, 13, 14},
+        int [][] arr  = {
+                {11, 12, 13, 14},
                 {15, 16, 17, 18},
                 {19, 20, 21, 22},
                 {23, 24, 25, 26}  };

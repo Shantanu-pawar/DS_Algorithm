@@ -3,7 +3,7 @@ package I0I_Java8_Features;
 /*
 lambda expression is key feature of java 8
 
-how does it help to developers ?
+how does it help to developers?
 it allows to use the complete functionalities as a method arguments
 and it allows devs to use code as Data.
 
@@ -15,13 +15,12 @@ so there are two types of implementations in lambda expressions.
 
 import java.util.Arrays;
 import java.util.List;
-
 public class Lambda_Expression {
     public static void main(String[] args) {
 
         // without anonymous class
         Function fun = (a, b) -> a + b;
-        int ans = fun.add(233,4);
+        int ans = fun.add(233, 4);
         System.out.println(ans);
 
 //     _________________________________________________________
@@ -30,18 +29,16 @@ public class Lambda_Expression {
         Welcome wel = new Welcome() {
             @Override
             public void subtract(int a, int b) {
-                System.out.println(a-b);
+                System.out.println(a - b);
             }
         };
-        wel.subtract(23,4);
+        wel.subtract(23, 4);
 //     _________________________________________________________
 
         // use of lambda expression using arraylist iteration
-        List<Integer> list = Arrays.asList(23,43,112,32,12);
-
-        // now iterating here using forEach loop
+        List<Integer> list = Arrays.asList(23, 43, 112, 32, 12);
         list.forEach(
-            (a) -> System.out.println("integer : " + a.toString())
+                (val) -> System.out.println("integer : " + val.toString())
         );
 
     }

@@ -5,7 +5,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7a8c732-f908-4d82-bebf-e2cc3143bd19" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/I2I_starterQues/o14_piglatinString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I2I_starterQues/o14_piglatinString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccentureQuestions/a10_Product_smallestPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccentureQuestions/a11_N_Based_Notation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccentureQuestions/a12_MoveHyphens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccentureQuestions/a13_CarryReturn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccentureQuestions/a14_OperationChoices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccentureQuestions/a15_maxExponents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccentureQuestions/a16_autoBiographical_Numb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccentureQuestions/a1_chocolates_Distribution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccentureQuestions/a2_parkingLot_PRACTICE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccentureQuestions/a3_Largest_Number_PRAXRICE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccentureQuestions/a4_Rat_Count_House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccentureQuestions/a5_binary_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccentureQuestions/a6_password_Checker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccentureQuestions/a7_findCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccentureQuestions/a8_find_Difference_OfSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccentureQuestions/a9_find_secondMax_secondMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I0I_OOPs/AbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I0I_OOPs/Design_Patterns/Creational/FactoryPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I0I_OOPs/Design_Patterns/Creational/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I0I_OOPs/Multiple_Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I2I_starterQues/CountCoins.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Java8_Features/Functional.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Java8_Features/Functional.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Java8_Features/Functional_Interface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Java8_Features/Functional_Interface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Java8_Features/Lambda_Expression$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Java8_Features/Lambda_Expression$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Java8_Features/Lambda_Expression.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Java8_Features/Lambda_Expression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o14_piglatinString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o14_piglatinString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o5_reverseString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o5_reverseString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I3I_2D_Array/Array_2D_Searching.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/I3I_2D_Array/Array_2D_Searching.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I3I_2D_Array/Spiral_Matrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/I3I_2D_Array/Spiral_Matrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I3I_2D_Array/matrix_Diagonal_Concept.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/I3I_2D_Array/matrix_Diagonal_Concept.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/DSA_impl_useFunctions/XOR_properties.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/DSA_impl_useFunctions/XOR_properties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_Java8_Features/Functional_Interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I0I_Java8_Features/Functional_Interface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_Java8_Features/Lambda_Expression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I0I_Java8_Features/Lambda_Expression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_OOPs/Dependency_injection_impl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2I_starterQues/o5_reverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I2I_starterQues/o5_reverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I3I_2D_Array/Array_2D_Searching.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I3I_2D_Array/Array_2D_Searching.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I3I_2D_Array/Spiral_Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I3I_2D_Array/Spiral_Matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I3I_2D_Array/matrix_Diagonal_Concept.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I3I_2D_Array/matrix_Diagonal_Concept.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +94,13 @@
       <recent name="D:\__Maven - intellej codes\DSA_QuesList\src\I8I_LinkedList\Singly_LinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.practice">
-    <configuration name="o12_Armstrong_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="I2I_starterQues.o12_Armstrong_Number" />
+  <component name="RunManager" selected="Application.a16_autoBiographical_Numb">
+    <configuration name="a13_CarryReturn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AccentureQuestions.a13_CarryReturn" />
       <module name="DSA_QuesList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="I2I_starterQues.*" />
+          <option name="PATTERN" value="AccentureQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="o13_second_smallest_Element_find" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="I2I_starterQues.o13_second_smallest_Element_find" />
+    <configuration name="a14_OperationChoices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AccentureQuestions.a14_OperationChoices" />
       <module name="DSA_QuesList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="I2I_starterQues.*" />
+          <option name="PATTERN" value="AccentureQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="o14_piglatinString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="I2I_starterQues.o14_piglatinString" />
+    <configuration name="a15_maxExponents" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AccentureQuestions.a15_maxExponents" />
       <module name="DSA_QuesList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="I2I_starterQues.*" />
+          <option name="PATTERN" value="AccentureQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="o9_Fibonacci_Series" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="I2I_starterQues.o9_Fibonacci_Series" />
+    <configuration name="a16_autoBiographical_Numb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AccentureQuestions.a16_autoBiographical_Numb" />
       <module name="DSA_QuesList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="I2I_starterQues.*" />
+          <option name="PATTERN" value="AccentureQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.a16_autoBiographical_Numb" />
+        <item itemvalue="Application.a15_maxExponents" />
+        <item itemvalue="Application.a14_OperationChoices" />
+        <item itemvalue="Application.a13_CarryReturn" />
         <item itemvalue="Application.practice" />
-        <item itemvalue="Application.o14_piglatinString" />
-        <item itemvalue="Application.o13_second_smallest_Element_find" />
-        <item itemvalue="Application.o12_Armstrong_Number" />
-        <item itemvalue="Application.o9_Fibonacci_Series" />
       </list>
     </recent_temporary>
   </component>

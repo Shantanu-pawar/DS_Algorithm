@@ -2,8 +2,19 @@ package I2I_starterQues;
 
 public class o5_reverseString {
     public static void main(String[] args) {
-        usingReverseLoop("dada");
-        anotherApproach("reverse;");
+//        usingReverseLoop("dada");
+//        anotherApproach("reverse;");
+        usingStringBuilder("reverse");
+    }
+
+    static void usingStringBuilder(String str){
+        StringBuilder sb = new StringBuilder(str);
+        sb.reverse();
+
+        // this is required to convert stringBuilder to string so that we perform action on string
+        String ans = sb.toString();
+        System.out.println(ans += " heyy");
+
     }
 
     static void usingReverseLoop(String name){
