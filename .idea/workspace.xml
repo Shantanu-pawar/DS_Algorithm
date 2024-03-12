@@ -5,20 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7a8c732-f908-4d82-bebf-e2cc3143bd19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AccentureQuestions/a17_arr_Equilibrium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AccentureQuestions/a18_arr_rotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AccentureQuestions/a19_matchString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AccentureQuestions/a20_reverse_String_afterSapce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AccentureQuestions/a21_subArray_sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AccentureQuestions/a22_maxSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I0I_MultiThreading_PAINDING/ExecutorFramework/Executor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I0I_MultiThreading_PAINDING/MultiTasking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I0I_OOPs/Design_Patterns/Creational/singleton/singleton doc.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I0I_OOPs/Design_Principles/Dependency_Inversion/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I0I_OOPs/Design_Principles/Interface_Seggregation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I0I_OOPs/Design_Principles/Liskov_Substitution/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I0I_OOPs/Design_Principles/Open_Closed/Add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I0I_OOPs/Design_Principles/Open_Closed/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I0I_OOPs/Design_Principles/Open_Closed/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I0I_OOPs/Design_Principles/Open_Closed/Operations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I0I_OOPs/Design_Principles/Open_Closed/Subtract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I0I_OOPs/Design_Principles/Single_Responsibility/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I0I_OOPs/Design_Principles/Single_Responsibility/AccountOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I0I_OOPs/Design_Principles/Single_Responsibility/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I0I_OOPs/Design_Principles/Single_Responsibility/TransactionOperations.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/AccentureQuestions/a16_autoBiographical_Numb.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/AccentureQuestions/a16_autoBiographical_Numb.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/practice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AccentureQuestions/a16_autoBiographical_Numb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AccentureQuestions/a16_autoBiographical_Numb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/I0I_MultiThreading_PAINDING/ExtendingThreadClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I0I_MultiThreading_PAINDING/ExtendingThreadClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_MultiThreading_PAINDING/ExtendingThreadClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_MultiThreading_PAINDING/ExtendingThreadClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/Design_Patterns/Creational/EmployeeFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/Design_Patterns/Creational/FactoryPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/Design_Patterns/Creational/JavaDeveloper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/Design_Patterns/Creational/Salary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/Design_Patterns/Creational/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/Design_Patterns/Creational/SingletonClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/Design_Patterns/Creational/WebDeveloper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_OOPs/Design_Patterns/Creational/FactoryPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I0I_OOPs/Design_Patterns/Creational/factory/FactoryPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_OOPs/Design_Patterns/Creational/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I0I_OOPs/Design_Patterns/Creational/singleton/Singleton_Example.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +38,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -46,16 +57,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/__Maven - intellej codes/DSA_QuesList&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/__Maven - intellej codes/DSA_QuesList",
+    "settings.editor.selected.configurable": "inlay.hints"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="I8I_LinkedList.Singly_LL" />
@@ -67,13 +78,13 @@
       <recent name="D:\__Maven - intellej codes\DSA_QuesList\src\I8I_LinkedList\Singly_LinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.practice">
-    <configuration name="a14_OperationChoices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AccentureQuestions.a14_OperationChoices" />
+  <component name="RunManager" selected="Application.I0I_OOPs.Design_Principles.Dependency_Inversion.Main">
+    <configuration name="I0I_OOPs.Design_Principles.Dependency_Inversion.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I0I_OOPs.Design_Principles.Dependency_Inversion.Main" />
       <module name="DSA_QuesList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AccentureQuestions.*" />
+          <option name="PATTERN" value="I0I_OOPs.Design_Principles.Dependency_Inversion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="a15_maxExponents" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AccentureQuestions.a15_maxExponents" />
+    <configuration name="I0I_OOPs.Design_Principles.Interface_Seggregation.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I0I_OOPs.Design_Principles.Interface_Seggregation.Main" />
       <module name="DSA_QuesList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AccentureQuestions.*" />
+          <option name="PATTERN" value="I0I_OOPs.Design_Principles.Interface_Seggregation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="a16_autoBiographical_Numb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AccentureQuestions.a16_autoBiographical_Numb" />
+    <configuration name="I0I_OOPs.Design_Principles.Open_Closed.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I0I_OOPs.Design_Principles.Open_Closed.Main" />
       <module name="DSA_QuesList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AccentureQuestions.*" />
+          <option name="PATTERN" value="I0I_OOPs.Design_Principles.Open_Closed.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="a20_reverse_String_afterSapce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AccentureQuestions.a20_reverse_String_afterSapce" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I0I_OOPs.Design_Principles.Single_Responsibility.Main" />
       <module name="DSA_QuesList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AccentureQuestions.*" />
+          <option name="PATTERN" value="I0I_OOPs.Design_Principles.Single_Responsibility.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,20 +131,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice" />
+    <configuration name="Vehicle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I0I_OOPs.Design_Principles.Liskov_Substitution.Vehicle" />
       <module name="DSA_QuesList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="I0I_OOPs.Design_Principles.Liskov_Substitution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.practice" />
-        <item itemvalue="Application.a20_reverse_String_afterSapce" />
-        <item itemvalue="Application.a16_autoBiographical_Numb" />
-        <item itemvalue="Application.a15_maxExponents" />
-        <item itemvalue="Application.a14_OperationChoices" />
+        <item itemvalue="Application.I0I_OOPs.Design_Principles.Dependency_Inversion.Main" />
+        <item itemvalue="Application.I0I_OOPs.Design_Principles.Interface_Seggregation.Main" />
+        <item itemvalue="Application.Vehicle" />
+        <item itemvalue="Application.I0I_OOPs.Design_Principles.Open_Closed.Main" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>

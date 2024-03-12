@@ -1,4 +1,4 @@
-package I0I_OOPs.Design_Patterns.Creational;
+package I0I_OOPs.Design_Patterns.Creational.factory;
 
 //resource : https://www.youtube.com/watch?v=YIB3u0KYrUI
 public class FactoryPattern {

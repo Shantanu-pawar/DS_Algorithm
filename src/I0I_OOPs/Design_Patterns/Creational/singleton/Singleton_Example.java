@@ -1,11 +1,12 @@
-package I0I_OOPs.Design_Patterns.Creational;
+package I0I_OOPs.Design_Patterns.Creational.singleton;
 
-public class Singleton {
+public class Singleton_Example {
     public static void main(String[] args) {
-
+// we've to make sure that our class should be create only once
         SingletonClass s = new SingletonClass();
         s.setInformation("this is SingleTon instance.");
         System.out.println(s.getInformation());
+        System.out.println(s.hashCode());
 
     }
 }
