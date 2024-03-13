@@ -11,6 +11,7 @@ With constructor overloading, you can define multiple constructors within a clas
 of parameters or different types of parameters. This provides flexibility when creating objects, as you can choose
 the constructor that best suits your needs based on the arguments you provide.
 
+ */
 // Constructor Overloading.
 
     public class Person {
@@ -35,9 +36,8 @@ the constructor that best suits your needs based on the arguments you provide.
             this(name, 0); // Calls the two-parameter constructor by providing default values for age and address
         }
     }
-    __________________________________________________________________________________________________________________________________
-
-    Here's an example of how to use the implements keyword to implement an interface in Java:
+//    __________________________________________________________________________________________________________________________________
+//    Here's an example of how to use the implements keyword to implement an interface in Java:
 
     // Interface definition
     interface Printable {
@@ -51,6 +51,9 @@ the constructor that best suits your needs based on the arguments you provide.
             System.out.println("Printing...");
         }
     }
+}
+
+    /*
     __________________________________________________________________________________________________________________________________
     define all types of constructor in java OOPS
 
@@ -118,8 +121,8 @@ the constructor that best suits your needs based on the arguments you provide.
             // Prevents instantiation
         }
 
-        // Static methods...
     }
 
- */
+
 }
+     */

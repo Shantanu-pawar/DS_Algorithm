@@ -12,8 +12,14 @@ class Car implements Run {
     }
 }
 
-class Driver {
+class Bus implements Run {
+    @Override
+    public void run(){
+        System.out.println("cityBus is moving...");
+    }
+}
 
+class Driver {
     //constructor Injection
     private Run vehicle;
     public Driver(Run vehicle) {
@@ -33,8 +39,9 @@ public class Main {
 
         // Create a Driver instance and inject the Car dependency
         Driver driver = new Driver(car);
+        driver.drive();
 
-        // Driver drives the car
-        driver.drive(); // Output: Car moving...
+        Driver driver1 = new Driver(new Bus());
+        driver1.drive();
     }
 }
