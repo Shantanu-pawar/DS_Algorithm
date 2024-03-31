@@ -5,7 +5,351 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7a8c732-f908-4d82-bebf-e2cc3143bd19" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/CoreJava_java8/PAINDING_Quetion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/AccentureQuestions/a10_Product_smallestPair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/AccentureQuestions/a11_N_Based_Notation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/AccentureQuestions/a12_MoveHyphens.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/AccentureQuestions/a13_CarryReturn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/AccentureQuestions/a14_OperationChoices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/AccentureQuestions/a15_maxExponents.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/AccentureQuestions/a16_autoBiographical_Numb.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/AccentureQuestions/a17_arr_Equilibrium.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/AccentureQuestions/a18_arr_rotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/AccentureQuestions/a19_matchString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/AccentureQuestions/a1_chocolates_Distribution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/AccentureQuestions/a20_reverse_String_afterSapce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/AccentureQuestions/a21_subArray_sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/AccentureQuestions/a22_maxSubarray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/AccentureQuestions/a2_parkingLot_PRACTICE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/AccentureQuestions/a3_Largest_Number_PRAXRICE$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/AccentureQuestions/a3_Largest_Number_PRAXRICE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/AccentureQuestions/a4_Rat_Count_House.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/AccentureQuestions/a5_binary_Number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/AccentureQuestions/a6_password_Checker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/AccentureQuestions/a7_findCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/AccentureQuestions/a8_find_Difference_OfSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/AccentureQuestions/a9_find_secondMax_secondMin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Arr_String_Ques/Q_merge_sorted_arr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Arr_String_Ques/check_ifStringContainsOrNot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/Arr_Element_Copy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/Convert_Int_And_Strings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/Convert_arrToString_stringToArr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/Functions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/Inplace_Reversals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/Shuffle_String.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/String_Manipulation_Functions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/String_all_methods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/inplaceArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/inplaceString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/toggle_all_Characters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Arr_Strings/DSA_impl_useFunctions/ArrayList_functions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Arr_Strings/DSA_impl_useFunctions/Hashmap_Functions_impl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Arr_Strings/DSA_impl_useFunctions/Hashset_functions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Arr_Strings/DSA_impl_useFunctions/XOR_properties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Arr_Strings/DSA_impl_useFunctions/store_Pairs_using_2D_ArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Arr_Strings/MathsQues/find_a_repetation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Arr_Strings/Painding_StringbuilderConcepts/StringTokeniser_Concept.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Arr_Strings/Painding_StringbuilderConcepts/impl_Documentation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Arr_Strings/Painding_StringbuilderConcepts/print_string_inOpposite_Ordering.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Arr_Strings/Painding_StringbuilderConcepts/reverse_words_Using_String_Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Concepts_Arr_Strings/Painding_StringbuilderConcepts/stringBuffer_palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Exception_Handling/CustomThrow_Exceptions$OverAgeException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Exception_Handling/CustomThrow_Exceptions$UnderAgeException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Exception_Handling/CustomThrow_Exceptions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Exception_Handling/Exceptions_CodePractice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Exception_Handling/runtimeException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Java8_Features/CheckSubs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Java8_Features/Function.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Java8_Features/Functional.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Java8_Features/Functional_Interface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Java8_Features/Generic_class.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Java8_Features/Generics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Java8_Features/Lambda_Expression$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Java8_Features/Lambda_Expression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Java8_Features/MethodInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Java8_Features/MethodPrintMsg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Java8_Features/Method_References.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Java8_Features/StreamAPI/Address.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Java8_Features/StreamAPI/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Java8_Features/StreamAPI/Stream_APIs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_Java8_Features/Welcome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_MultiThreading_PAINDING/ExecutorFramework/Executor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_MultiThreading_PAINDING/ExtendingThreadClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_MultiThreading_PAINDING/ImplRunnableInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_MultiThreading_PAINDING/MultiTasking.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/AbstractClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/Design_Patterns/Creational/factory/EmployeeFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/Design_Patterns/Creational/factory/FactoryPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/Design_Patterns/Creational/factory/JavaDeveloper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/Design_Patterns/Creational/factory/Salary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/Design_Patterns/Creational/factory/WebDeveloper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/Design_Patterns/Creational/singleton/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/Design_Patterns/Creational/singleton/Singleton_Example.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/Design_Patterns/Creational/singleton/singleton doc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/Design_Principles/Dependency_Inversion/Bus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/Design_Principles/Dependency_Inversion/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/Design_Principles/Dependency_Inversion/Driver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/Design_Principles/Dependency_Inversion/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/Design_Principles/Dependency_Inversion/Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/Design_Principles/Interface_Seggregation/LunchTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/Design_Principles/Interface_Seggregation/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/Design_Principles/Interface_Seggregation/Robot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/Design_Principles/Interface_Seggregation/WorkTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/Design_Principles/Interface_Seggregation/Worker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/Design_Principles/Liskov_Substitution/Mustang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/Design_Principles/Liskov_Substitution/Ninja.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/Design_Principles/Liskov_Substitution/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/Design_Principles/Liskov_Substitution/VehicleType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/Design_Principles/Open_Closed/Add.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/Design_Principles/Open_Closed/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/Design_Principles/Open_Closed/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/Design_Principles/Open_Closed/Operations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/Design_Principles/Open_Closed/Subtract.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/Design_Principles/Single_Responsibility/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/Design_Principles/Single_Responsibility/AccountOperations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/Design_Principles/Single_Responsibility/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/Design_Principles/Single_Responsibility/TransactionOperations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/Engine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/Multiple_Inheritance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/Steering.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/Sunstar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/all_TypesOf_Constructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I0I_OOPs/methodInvocation_objectCreation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I1I_Patterns/Patterns.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/CountCoins.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o10_Nth_Number_Of_Fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o12_Armstrong_Number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o13_second_smallest_Element_find.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o14_piglatinString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o1_primeNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o2_leapYear.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o3_FactorialNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o4_ReverseNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o5_reverseString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o6_NumberSwappings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o7_Delete_Insert_Elements_inArr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o8_identifyPalindrome_Numbers_String.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I2I_starterQues/o9_Fibonacci_Series.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I3I_2D_Array/Array_2D_Searching.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I3I_2D_Array/Rotate_Matrix_By_90_degree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I3I_2D_Array/Spiral_Matrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I3I_2D_Array/matrix_Diagonal_Concept.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I3I_2D_Array/sort_The_Matrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I4I_AccioQues/find_if_String_Is_Valid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I5I_HashMaps_Sets/Longest_subarray_with_sumK.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I5I_HashMaps_Sets/MaximumFreqCharacter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I5I_HashMaps_Sets/countNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I5I_HashMaps_Sets/count_Pair_with_given_sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I5I_HashMaps_Sets/count_pair_with_given_Difference.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I5I_HashMaps_Sets/find_char_present_inString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I5I_HashMaps_Sets/most_occurring_char_inString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I5I_HashMaps_Sets/print_all_single_NonRepeatative_chars_fromString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I5I_HashMaps_Sets/return_Only_NonRepetative_ElementSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I5I_HashMaps_Sets/shuffle_String.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I6I_Stacks_Queues/Stacks_BracketCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I6I_Stacks_Queues/Stacks_IMPL$Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I6I_Stacks_Queues/Stacks_IMPL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I6I_Stacks_Queues/maximum_area_Histogram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I7I_Sortings/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I7I_Sortings/InsertionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I7I_Sortings/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I7I_Sortings/QuickSort_REVISE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I7I_Sortings/selectionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I8I_LinkedList/Circular_LL/Circular_LL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I8I_LinkedList/Circular_LL/LL$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I8I_LinkedList/Circular_LL/LL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I8I_LinkedList/Doubly_LL/LL$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I8I_LinkedList/Doubly_LL/LL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I8I_LinkedList/Doubly_LL/doubly_LL_impl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I8I_LinkedList/List.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I8I_LinkedList/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I8I_LinkedList/Singly_LL/LL$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I8I_LinkedList/Singly_LL/LL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I8I_LinkedList/Singly_LL/LinkedList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I8I_LinkedList/Singly_LL/LinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I8I_LinkedList/Singly_LL/singly_LL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I8I_LinkedList/Singly_LL/singly_LL_withoutTail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I8I_LinkedList/compare_two_LinkedLists.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I9I_Recursion/o10_remove_Target_Char_From_String.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I9I_Recursion/o11_bunnyEars.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I9I_Recursion/o12_pairStar_Painding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I9I_Recursion/o13_recursive_digit_sum_Painding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I9I_Recursion/o14_helloRecur_Painding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I9I_Recursion/o1_factorial_of_number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I9I_Recursion/o2_fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I9I_Recursion/o3_reverse_String_using_Recursion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I9I_Recursion/o4_check_Array_is_palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I9I_Recursion/o5_reverse_a_Number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I9I_Recursion/o6_count_all_digits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I9I_Recursion/o7_reverse_an_Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I9I_Recursion/o8_check_arr_is_Sorted.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I9I_Recursion/o9_store_indexes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/I9I_Recursion/o_remove_X_from_Strings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/PAINDING/GFG_Q6_Minimum_SumOfTwo_Nos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/PAINDING/Q23_Sum_ofTwoArrays_1D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/PAINDING/Q26_ThreeArray_commonElementFind.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/PAINDING/Q27_sum_OF_2D_Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/PAINDING/Substract_Two_StringsNums.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Z_imgs/arr vs linkedlist difference.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Z_imgs/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/whole MD creation examples.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AccentureQuestions/a10_Product_smallestPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/AccentureQuestions/a10_Product_smallestPair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AccentureQuestions/a11_N_Based_Notation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/AccentureQuestions/a11_N_Based_Notation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AccentureQuestions/a12_MoveHyphens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/AccentureQuestions/a12_MoveHyphens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AccentureQuestions/a13_CarryReturn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/AccentureQuestions/a13_CarryReturn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AccentureQuestions/a14_OperationChoices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/AccentureQuestions/a14_OperationChoices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AccentureQuestions/a15_maxExponents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/AccentureQuestions/a15_maxExponents.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AccentureQuestions/a16_autoBiographical_Numb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/AccentureQuestions/a16_autoBiographical_Numb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AccentureQuestions/a17_arr_Equilibrium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/AccentureQuestions/a17_arr_Equilibrium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AccentureQuestions/a18_arr_rotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/AccentureQuestions/a18_arr_rotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AccentureQuestions/a19_matchString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/AccentureQuestions/a19_matchString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AccentureQuestions/a1_chocolates_Distribution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/AccentureQuestions/a1_chocolates_Distribution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AccentureQuestions/a20_reverse_String_afterSapce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/AccentureQuestions/a20_reverse_String_afterSapce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AccentureQuestions/a21_subArray_sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/AccentureQuestions/a21_subArray_sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AccentureQuestions/a22_maxSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/AccentureQuestions/a22_maxSubarray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AccentureQuestions/a2_parkingLot_PRACTICE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/AccentureQuestions/a2_parkingLot_PRACTICE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AccentureQuestions/a3_Largest_Number_PRAXRICE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/AccentureQuestions/a3_Largest_Number_PRAXRICE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AccentureQuestions/a4_Rat_Count_House.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/AccentureQuestions/a4_Rat_Count_House.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AccentureQuestions/a5_binary_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/AccentureQuestions/a5_binary_Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AccentureQuestions/a6_password_Checker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/AccentureQuestions/a6_password_Checker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AccentureQuestions/a7_findCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/AccentureQuestions/a7_findCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AccentureQuestions/a8_find_Difference_OfSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/AccentureQuestions/a8_find_Difference_OfSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AccentureQuestions/a9_find_secondMax_secondMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/AccentureQuestions/a9_find_secondMax_secondMin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arr_String_Ques/Q_merge_sorted_arr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/Arr_String_Ques/Q_merge_sorted_arr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arr_String_Ques/check_ifStringContainsOrNot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/Arr_String_Ques/check_ifStringContainsOrNot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/Arr_Element_Copy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/Arrays_And_Strings_concepts/Arr_Element_Copy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/Convert_Int_And_Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/Arrays_And_Strings_concepts/Convert_Int_And_Strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/Convert_arrToString_stringToArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/Arrays_And_Strings_concepts/Convert_arrToString_stringToArr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/Inplace_Reversals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/Arrays_And_Strings_concepts/Inplace_Reversals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/Shuffle_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/Arrays_And_Strings_concepts/Shuffle_String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/String_Manipulation_Functions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/Arrays_And_Strings_concepts/String_Manipulation_Functions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/String_all_methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/Arrays_And_Strings_concepts/String_all_methods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/Arrays_And_Strings_concepts/toggle_all_Characters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/Arrays_And_Strings_concepts/toggle_all_Characters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/DSA_impl_useFunctions/ArrayList_functions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/DSA_impl_useFunctions/ArrayList_functions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/DSA_impl_useFunctions/Hashmap_Functions_impl-solve.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/DSA_impl_useFunctions/Hashmap_Functions_impl-solve.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/DSA_impl_useFunctions/Hashmap_Functions_impl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/DSA_impl_useFunctions/Hashmap_Functions_impl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/DSA_impl_useFunctions/Hashset_functions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/DSA_impl_useFunctions/Hashset_functions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/DSA_impl_useFunctions/XOR_properties.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/DSA_impl_useFunctions/XOR_properties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/DSA_impl_useFunctions/store_Pairs_using_2D_ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/DSA_impl_useFunctions/store_Pairs_using_2D_ArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/MathsQues/find_a_repetation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/MathsQues/find_a_repetation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/Painding_StringbuilderConcepts/StringTokeniser_Concept.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/A_Painding_StringbuilderConcepts/StringTokeniser_Concept.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/Painding_StringbuilderConcepts/impl_Documentation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/A_Painding_StringbuilderConcepts/impl_Documentation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/Painding_StringbuilderConcepts/print_string_inOpposite_Ordering.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/A_Painding_StringbuilderConcepts/print_string_inOpposite_Ordering.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/Painding_StringbuilderConcepts/reverse_words_Using_String_Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/A_Painding_StringbuilderConcepts/reverse_words_Using_String_Builder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_Concepts_Arr_Strings/Painding_StringbuilderConcepts/stringBuffer_palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/A_Painding_StringbuilderConcepts/stringBuffer_palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_Exception_Handling/CustomThrow_Exceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exception_Handling/CustomThrow_Exceptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_Exception_Handling/Exceptions_CodePractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exception_Handling/Exceptions_CodePractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_Exception_Handling/runtimeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exception_Handling/runtimeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_Java8_Features/Functional_Interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava_java8/Functional_Interface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_Java8_Features/Generic_class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava_java8/Generic_class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_Java8_Features/Lambda_Expression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava_java8/Lambda_Expression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_Java8_Features/Method_References.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava_java8/Method_References.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_Java8_Features/StreamAPI/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava_java8/StreamAPI/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_Java8_Features/StreamAPI/Stream_APIs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava_java8/StreamAPI/Stream_APIs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_MultiThreading_PAINDING/ExecutorFramework/Executor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MultiThreading/ExecutorFramework/Executor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_MultiThreading_PAINDING/ExtendingThreadClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MultiThreading/ExtendingThreadClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_MultiThreading_PAINDING/ImplRunnableInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MultiThreading/ImplRunnableInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_MultiThreading_PAINDING/MultiTasking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MultiThreading/MultiTasking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_OOPs/AbstractClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs_Concepts/AbstractClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_OOPs/Design_Patterns/Behavioural/a_Observer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs_Concepts/Design_Patterns/Behavioural/a_Observer/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_OOPs/Design_Patterns/Behavioural/sdf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_OOPs/Design_Patterns/Creational/a_singleton/DatabaseConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs_Concepts/Design_Patterns/Creational/a_singleton/DatabaseConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_OOPs/Design_Patterns/Creational/a_singleton/Singleton_StandardEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs_Concepts/Design_Patterns/Creational/a_singleton/Singleton_StandardEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_OOPs/Design_Patterns/Creational/b_factory/FactoryPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs_Concepts/Design_Patterns/Creational/b_factory/FactoryPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_OOPs/Design_Patterns/Creational/c_Abstract_Factory/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs_Concepts/Design_Patterns/Creational/c_Abstract_Factory/Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_OOPs/Design_Patterns/Creational/d_Builder/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs_Concepts/Design_Patterns/Creational/d_Builder/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_OOPs/Design_Patterns/Creational/e_Strategy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs_Concepts/Design_Patterns/Creational/e_Strategy/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_OOPs/Design_Patterns/Structural/a_Decorator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs_Concepts/Design_Patterns/Structural/a_Decorator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_OOPs/Design_Patterns/Structural/b_Facade/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs_Concepts/Design_Patterns/Structural/b_Facade/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_OOPs/Design_Patterns/Structural/c_Repository/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs_Concepts/Design_Patterns/Structural/c_Repository/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_OOPs/Design_Principles/Dependency_Inversion/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs_Concepts/Design_Principles/Dependency_Inversion/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_OOPs/Design_Principles/Interface_Seggregation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs_Concepts/Design_Principles/Interface_Seggregation/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_OOPs/Design_Principles/Liskov_Substitution/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs_Concepts/Design_Principles/Liskov_Substitution/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_OOPs/Design_Principles/Open_Closed/Add.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs_Concepts/Design_Principles/Open_Closed/Add.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_OOPs/Design_Principles/Open_Closed/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs_Concepts/Design_Principles/Open_Closed/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_OOPs/Design_Principles/Open_Closed/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs_Concepts/Design_Principles/Open_Closed/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_OOPs/Design_Principles/Open_Closed/Operations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs_Concepts/Design_Principles/Open_Closed/Operations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_OOPs/Design_Principles/Open_Closed/Subtract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs_Concepts/Design_Principles/Open_Closed/Subtract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_OOPs/Design_Principles/Single_Responsibility/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs_Concepts/Design_Principles/Single_Responsibility/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_OOPs/Design_Principles/Single_Responsibility/AccountOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs_Concepts/Design_Principles/Single_Responsibility/AccountOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_OOPs/Design_Principles/Single_Responsibility/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs_Concepts/Design_Principles/Single_Responsibility/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_OOPs/Design_Principles/Single_Responsibility/TransactionOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs_Concepts/Design_Principles/Single_Responsibility/TransactionOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_OOPs/Multiple_Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs_Concepts/Multiple_Inheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_OOPs/all_TypesOf_Constructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs_Concepts/all_TypesOf_Constructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I0I_OOPs/methodInvocation_objectCreation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs_Concepts/methodInvocation_objectCreation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I1I_Patterns/Patterns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I1I_Patterns/Patterns.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2I_starterQues/CountCoins.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I2I_starterQues/CountCoins.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2I_starterQues/o10_Nth_Number_Of_Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I2I_starterQues/o10_Nth_Number_Of_Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2I_starterQues/o12_Armstrong_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I2I_starterQues/o12_Armstrong_Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2I_starterQues/o13_second_smallest_Element_find.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I2I_starterQues/o13_second_smallest_Element_find.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2I_starterQues/o14_piglatinString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I2I_starterQues/o14_piglatinString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2I_starterQues/o1_primeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I2I_starterQues/o1_primeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2I_starterQues/o2_leapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I2I_starterQues/o2_leapYear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2I_starterQues/o3_FactorialNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I2I_starterQues/o3_FactorialNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2I_starterQues/o4_ReverseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I2I_starterQues/o4_ReverseNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2I_starterQues/o5_reverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I2I_starterQues/o5_reverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2I_starterQues/o6_NumberSwappings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I2I_starterQues/o6_NumberSwappings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2I_starterQues/o7_Delete_Insert_Elements_inArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I2I_starterQues/o7_Delete_Insert_Elements_inArr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2I_starterQues/o8_identifyPalindrome_Numbers_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I2I_starterQues/o8_identifyPalindrome_Numbers_String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I2I_starterQues/o9_Fibonacci_Series.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I2I_starterQues/o9_Fibonacci_Series.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I3I_2D_Array/Array_2D_Searching.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I3I_2D_Array/Array_2D_Searching.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I3I_2D_Array/Rotate_Matrix_By_90_degree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I3I_2D_Array/Rotate_Matrix_By_90_degree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I3I_2D_Array/Spiral_Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I3I_2D_Array/Spiral_Matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I3I_2D_Array/matrix_Diagonal_Concept.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I3I_2D_Array/matrix_Diagonal_Concept.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I3I_2D_Array/sort_The_Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I3I_2D_Array/sort_The_Matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I4I_AccioQues/find_if_String_Is_Valid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I4I_AccioQues/find_if_String_Is_Valid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I5I_HashMaps_Sets/Longest_subarray_with_sumK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I5I_HashMaps_Sets/Longest_subarray_with_sumK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I5I_HashMaps_Sets/MaximumFreqCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I5I_HashMaps_Sets/MaximumFreqCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I5I_HashMaps_Sets/countNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I5I_HashMaps_Sets/countNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I5I_HashMaps_Sets/count_Pair_with_given_sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I5I_HashMaps_Sets/count_Pair_with_given_sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I5I_HashMaps_Sets/count_pair_with_given_Difference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I5I_HashMaps_Sets/count_pair_with_given_Difference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I5I_HashMaps_Sets/find_char_present_inString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I5I_HashMaps_Sets/find_char_present_inString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I5I_HashMaps_Sets/most_occurring_char_inString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I5I_HashMaps_Sets/most_occurring_char_inString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I5I_HashMaps_Sets/print_all_single_NonRepeatative_chars_fromString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I5I_HashMaps_Sets/print_all_single_NonRepeatative_chars_fromString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I5I_HashMaps_Sets/return_Only_NonRepetative_ElementSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I5I_HashMaps_Sets/return_Only_NonRepetative_ElementSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I5I_HashMaps_Sets/shuffle_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I5I_HashMaps_Sets/shuffle_String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I6I_Stacks_Queues/Stacks_BracketCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I6I_Stacks_Queues/Stacks_BracketCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I6I_Stacks_Queues/Stacks_IMPL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I6I_Stacks_Queues/Stacks_IMPL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I6I_Stacks_Queues/maximum_area_Histogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I6I_Stacks_Queues/maximum_area_Histogram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I7I_Sortings/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I7I_Sortings/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I7I_Sortings/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I7I_Sortings/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I7I_Sortings/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I7I_Sortings/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I7I_Sortings/QuickSort_REVISE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I7I_Sortings/QuickSort_REVISE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I7I_Sortings/selectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I7I_Sortings/selectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I8I_LinkedList/Circular_LL/Circular_LL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I8I_LinkedList/Circular_LL/Circular_LL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I8I_LinkedList/Doubly_LL/doubly_LL_impl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I8I_LinkedList/Doubly_LL/doubly_LL_impl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I8I_LinkedList/Singly_LL/singly_LL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I8I_LinkedList/Singly_LL/singly_LL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I8I_LinkedList/Singly_LL/singly_LL_withoutTail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I8I_LinkedList/Singly_LL/singly_LL_withoutTail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I8I_LinkedList/compare_two_LinkedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I8I_LinkedList/compare_two_LinkedLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I9I_Recursion/o10_remove_Target_Char_From_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I9I_Recursion/o10_remove_Target_Char_From_String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I9I_Recursion/o11_bunnyEars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I9I_Recursion/o11_bunnyEars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I9I_Recursion/o12_pairStar_Painding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I9I_Recursion/o12_pairStar_Painding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I9I_Recursion/o13_recursive_digit_sum_Painding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I9I_Recursion/o13_recursive_digit_sum_Painding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I9I_Recursion/o14_helloRecur_Painding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I9I_Recursion/o14_helloRecur_Painding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I9I_Recursion/o1_factorial_of_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I9I_Recursion/o1_factorial_of_number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I9I_Recursion/o2_fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I9I_Recursion/o2_fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I9I_Recursion/o3_reverse_String_using_Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I9I_Recursion/o3_reverse_String_using_Recursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I9I_Recursion/o4_check_Array_is_palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I9I_Recursion/o4_check_Array_is_palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I9I_Recursion/o5_reverse_a_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I9I_Recursion/o5_reverse_a_Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I9I_Recursion/o6_count_all_digits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I9I_Recursion/o6_count_all_digits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I9I_Recursion/o7_reverse_an_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I9I_Recursion/o7_reverse_an_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I9I_Recursion/o8_check_arr_is_Sorted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I9I_Recursion/o8_check_arr_is_Sorted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I9I_Recursion/o9_store_indexes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I9I_Recursion/o9_store_indexes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I9I_Recursion/o_remove_X_from_Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I9I_Recursion/o_remove_X_from_Strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PAINDING/GFG_Q6_Minimum_SumOfTwo_Nos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/GFG_Q6_Minimum_SumOfTwo_Nos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PAINDING/Q23_Sum_ofTwoArrays_1D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/Q23_Sum_ofTwoArrays_1D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PAINDING/Q26_ThreeArray_commonElementFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/Q26_ThreeArray_commonElementFind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PAINDING/Q27_sum_OF_2D_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/Q27_sum_OF_2D_Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PAINDING/Substract_Two_StringsNums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/Substract_Two_StringsNums.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Z_imgs/arr vs linkedlist difference.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/Z_imgs/arr vs linkedlist difference.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Z_imgs/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/Z_imgs/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/whole MD creation examples.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/whole MD creation examples.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,34 +378,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Obsidian Vault",
-    "settings.editor.selected.configurable": "inlay.hints"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/__Maven - intellej codes/DSA_QuesList&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="I8I_LinkedList.Singly_LL" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\__Maven - intellej codes\DSA_QuesList\src\Z_imgs" />
-      <recent name="D:\__Maven - intellej codes\DSA_QuesList\src\A_ShortNotes" />
-      <recent name="D:\__Maven - intellej codes\DSA_QuesList\src" />
-      <recent name="D:\__Maven - intellej codes\DSA_QuesList\src\I8I_LinkedList\Singly_LinkedList" />
+      <recent name="D:\__Maven - intellej codes\DSA_QuesList\src\Questions_nd_CONCEPTS" />
+      <recent name="D:\__Maven - intellej codes\DSA_QuesList\src\Questions_nd_CONCEPTS\A_OnlineBestRepo" />
+      <recent name="D:\__Maven - intellej codes\DSA_QuesList\src\Questions_nd_Algo" />
+      <recent name="D:\__Maven - intellej codes\DSA_QuesList\src\I0I_MultiThreading_PAINDING" />
+      <recent name="D:\__Maven - intellej codes\DSA_QuesList\src\I0I_Java8_Features\All_Lambda_Expression" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Singleton_Example">
-    <configuration name="I0I_OOPs.Design_Principles.Dependency_Inversion.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="I0I_OOPs.Design_Principles.Dependency_Inversion.Main" />
+  <component name="RunManager" selected="Application.DatabaseConnection">
+    <configuration name="DatabaseConnection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPs_Concepts.Design_Patterns.Creational.a_singleton.DatabaseConnection" />
       <module name="DSA_QuesList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="I0I_OOPs.Design_Principles.Dependency_Inversion.*" />
+          <option name="PATTERN" value="OOPs_Concepts.Design_Patterns.Creational.a_singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +414,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="I0I_OOPs.Design_Principles.Interface_Seggregation.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="I0I_OOPs.Design_Principles.Interface_Seggregation.Main" />
+    <configuration name="OOPs_Concepts.Design_Principles.Interface_Seggregation.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPs_Concepts.Design_Principles.Interface_Seggregation.Main" />
       <module name="DSA_QuesList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="I0I_OOPs.Design_Principles.Interface_Seggregation.*" />
+          <option name="PATTERN" value="OOPs_Concepts.Design_Principles.Interface_Seggregation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +427,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="I0I_OOPs.Design_Principles.Open_Closed.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="I0I_OOPs.Design_Principles.Open_Closed.Main" />
+    <configuration name="OOPs_Concepts.Design_Principles.Open_Closed.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPs_Concepts.Design_Principles.Open_Closed.Main" />
       <module name="DSA_QuesList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="I0I_OOPs.Design_Principles.Open_Closed.*" />
+          <option name="PATTERN" value="OOPs_Concepts.Design_Principles.Open_Closed.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,7 +445,7 @@
       <module name="DSA_QuesList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="I0I_OOPs.Design_Patterns.Creational.a_singleton.*" />
+          <option name="PATTERN" value="OOPs_Concepts.Design_Patterns.Creational.a_singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +454,11 @@
       </method>
     </configuration>
     <configuration name="Vehicle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="I0I_OOPs.Design_Principles.Liskov_Substitution.Vehicle" />
+      <option name="MAIN_CLASS_NAME" value="OOPs_Concepts.Design_Principles.Liskov_Substitution.Vehicle" />
       <module name="DSA_QuesList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="I0I_OOPs.Design_Principles.Liskov_Substitution.*" />
+          <option name="PATTERN" value="OOPs_Concepts.Design_Principles.Liskov_Substitution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +468,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DatabaseConnection" />
         <item itemvalue="Application.Singleton_Example" />
-        <item itemvalue="Application.I0I_OOPs.Design_Principles.Dependency_Inversion.Main" />
-        <item itemvalue="Application.I0I_OOPs.Design_Principles.Interface_Seggregation.Main" />
+        <item itemvalue="Application.OOPs_Concepts.Design_Principles.Interface_Seggregation.Main" />
         <item itemvalue="Application.Vehicle" />
-        <item itemvalue="Application.I0I_OOPs.Design_Principles.Open_Closed.Main" />
+        <item itemvalue="Application.OOPs_Concepts.Design_Principles.Open_Closed.Main" />
       </list>
     </recent_temporary>
   </component>
