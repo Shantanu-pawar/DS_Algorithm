@@ -5,18 +5,18 @@ public class CustomThrow_Exceptions {
 // this handle's custom Exception here and Custom Exceptions building.
     public static void main(String[] args) {
         try {
-            function(19);
+            checkIfAgeIsCorrect(19);
         }
         catch(Exception e) {
             System.out.println(e.getMessage());
         }
     }
 
-    public static void function(int age) throws UnderAgeException, OverAgeException{
+    public static void checkIfAgeIsCorrect(int age) throws Exception{
         if(age <= 18){
             throw new UnderAgeException("bada hoja pehle");
         }
-        else if(age > 18){
+        else if(age > 20){
             throw new OverAgeException("Bencho kafi bada ho gya re tu!");
         }
     }
