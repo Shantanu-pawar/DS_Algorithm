@@ -7,9 +7,7 @@ import java.util.List;
 public class ArrayList_functions {
     public static void main(String[] args) {
 
-    List<Integer> list = new ArrayList<>(
-            List.of(2,3,4,5,6,7,8,9)
-    );
+    List<Integer> list = new ArrayList<>(List.of(21,32,12,324,123));
 
     // this is also new method to print arraylist
     List<Integer> li = Arrays.asList(232,34,3);

@@ -5,70 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7a8c732-f908-4d82-bebf-e2cc3143bd19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/A_OOPs_UnderstandingEx/_1_Abstract_Class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A_OOPs_UnderstandingEx/_2_Multiple_Inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoreJava_java8/_1_Lambda_Default_FunctionProg/InterviewType_Ques/pro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoreJava_java8/_1_Lambda_Default_FunctionProg/_1_initialisation/_1_LambdaExpUse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoreJava_java8/_1_Lambda_Default_FunctionProg/_1_initialisation/_2_DefaultMethodUse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoreJava_java8/_1_Lambda_Default_FunctionProg/_1_initialisation/_3_LambdaExp_UsingComparator_Func.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoreJava_java8/_1_Lambda_Default_FunctionProg/_1_initialisation/_4_Sort_Objects_Using_Comparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoreJava_java8/_2_StaticMethod/Interview_quetion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoreJava_java8/_2_StaticMethod/StaticMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoreJava_java8/_3_Predicates/I1I_predicateExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoreJava_java8/_3_Predicates/I2I_streamWithPredicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoreJava_java8/_3_Predicates/I3I_default_staticMethods_inPredicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoreJava_java8/_4_StreamAPI/PracticeProblms/I0I_Intro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoreJava_java8/_4_StreamAPI/PracticeProblms/I1I_sumOfEvenNo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoreJava_java8/_4_StreamAPI/PracticeProblms/I2I_findDuplicate_Obj.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoreJava_java8/_4_StreamAPI/PracticeProblms/I3I_Explore_MoreFunctions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoreJava_java8/_4_StreamAPI/PracticeProblms/ImpProblm_1/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoreJava_java8/_5_Constructors_Method_Refereces/I1I_MethodReference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoreJava_java8/_5_Constructors_Method_Refereces/I2I_MethodReference_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoreJava_java8/_5_Constructors_Method_Refereces/I3I_ConstructorRefference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CoreJava_java8/_4_StreamAPI/PracticeProblms/Interview_problmStatements/I1I_sort_Obj_ByNames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CoreJava_java8/_4_StreamAPI/PracticeProblms/Interview_problmStatements/I2I_print_duplicate_Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CoreJava_java8/_4_StreamAPI/UseOf_Flatmap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CoreJava_java8/_6_OptionalClass/optional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_OOP_Concepts/Abstraction/c1_Abstract_class_And_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_OOP_Concepts/Abstraction/c2_Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_OOP_Concepts/Association/e1_Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_OOP_Concepts/Association/e2_Engine_Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_OOP_Concepts/Class_Objects/ex1_Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_OOP_Concepts/Class_Objects/ex2_Initialise_class_By_Refference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_OOP_Concepts/Class_Objects/ex3_Access_Params_Via_methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_OOP_Concepts/Class_Objects/ex4_set_Params_Via_Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_OOP_Concepts/Class_Objects/ex5_Constructor_Overloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_OOP_Concepts/Class_Objects/ex6_CopyObj_via_Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_OOP_Concepts/Class_Objects/ex7_Create_Multiple_Objects.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/All_Lambda_Expression/AllAboutLambda/_1_Creating_SUM_LAMBDA/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/All_Lambda_Expression/AllAboutLambda/_1_Creating_SUM_LAMBDA/sumInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/All_Lambda_Expression/AllAboutLambda/_2_Length_Identify/LengthInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/All_Lambda_Expression/AllAboutLambda/_2_Length_Identify/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/All_Lambda_Expression/AllAboutLambda/_3_ThreadsCreation/ThreadDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/All_Lambda_Expression/AllAboutLambda/learn_How_to_define_Lambda_1stTime/Main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/All_Lambda_Expression/AllAboutLambda/learn_How_to_define_Lambda_1stTime/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/All_Lambda_Expression/AllAboutLambda/learn_How_to_define_Lambda_1stTime/inter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/All_Lambda_Expression/AllAboutStream/PracticeQues/StringArray_Filtering.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/All_Lambda_Expression/AllAboutStream/StreamAPI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/CheckSubs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/Function.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/Functional.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/Functional_Interface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/Lambda_Expression$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/Lambda_Expression.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/MethodInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/MethodPrintMsg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/Method_References.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/StreamAPI/Address.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/StreamAPI/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/StreamAPI/Stream_APIs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/Welcome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Exception_Handling/CustomThrow_Exceptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Exception_Handling/CustomThrow_Exceptions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/All Coding Patterns.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/All Coding Patterns.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CoreJava_java8/All_Lambda_Expression/AllAboutLambda/_1_Creating_SUM_LAMBDA/main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CoreJava_java8/All_Lambda_Expression/AllAboutLambda/_1_Creating_SUM_LAMBDA/sumInterface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CoreJava_java8/All_Lambda_Expression/AllAboutLambda/_2_Length_Identify/LengthInterface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CoreJava_java8/All_Lambda_Expression/AllAboutLambda/_2_Length_Identify/main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CoreJava_java8/All_Lambda_Expression/AllAboutLambda/_3_ThreadsCreation/ThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava_java8/_1_Lambda_Default_FunctionProg/_1_initialisation/_5_ThreadDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CoreJava_java8/All_Lambda_Expression/AllAboutLambda/learn_How_to_define_Lambda_1stTime/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CoreJava_java8/All_Lambda_Expression/AllAboutLambda/learn_How_to_define_Lambda_1stTime/inter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CoreJava_java8/All_Lambda_Expression/AllAboutStream/PracticeQues/StringArray_Filtering.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CoreJava_java8/All_Lambda_Expression/AllAboutStream/StreamAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava_java8/_4_StreamAPI/StreamAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CoreJava_java8/Functional_Interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava_java8/_1_Lambda_Default_FunctionProg/Functional_Interface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CoreJava_java8/Lambda_Expression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava_java8/_1_Lambda_Default_FunctionProg/_1_initialisation/_0_Lambda_Expression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CoreJava_java8/Method_References.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CoreJava_java8/StreamAPI/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava_java8/_4_StreamAPI/PracticeProblms/ImpProblm_1/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CoreJava_java8/StreamAPI/Stream_APIs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava_java8/_4_StreamAPI/PracticeProblms/ImpProblm_1/Stream_functions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CoreJava_java8/StreamAPI/ex1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exception_Handling/CustomThrow_Exceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exception_Handling/CustomThrow_Exceptions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/All Coding Patterns.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/All Coding Patterns.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/_4_StreamAPI/PracticeProblms/I3I_Explore_MoreFunctions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/_4_StreamAPI/PracticeProblms/I3I_Explore_MoreFunctions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/_4_StreamAPI/PracticeProblms/ImpProblm_1/Address.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/_4_StreamAPI/PracticeProblms/ImpProblm_1/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/_4_StreamAPI/PracticeProblms/ImpProblm_1/Stream_functions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/_4_StreamAPI/StreamAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/_4_StreamAPI/StreamAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_OOP_Concepts/AbstractClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_OOP_Concepts/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_OOP_Concepts/Sunstar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/DSA_impl_useFunctions/ArrayList_functions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/DSA_impl_useFunctions/ArrayList_functions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreJava_java8/_4_StreamAPI/PracticeProblms/I3I_Explore_MoreFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava_java8/_4_StreamAPI/PracticeProblms/I3I_Explore_MoreFunctions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreJava_java8/_4_StreamAPI/PracticeProblms/ImpProblm_1/Address.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreJava_java8/_4_StreamAPI/PracticeProblms/ImpProblm_1/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreJava_java8/_4_StreamAPI/PracticeProblms/ImpProblm_1/Stream_functions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreJava_java8/_4_StreamAPI/StreamAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava_java8/_4_StreamAPI/StreamAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_OOP_Concepts/AbstractClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/DSA_impl_useFunctions/ArrayList_functions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/DSA_impl_useFunctions/ArrayList_functions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,16 +66,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Obsidian Vault&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/__Maven - intellej codes/DSA - QuesList/OOPs _ design patterns [GIT CODE]",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="I8I_LinkedList.Singly_LL" />
@@ -120,13 +88,13 @@
       <recent name="D:\__Maven - intellej codes\DSA_QuesList\src\I0I_MultiThreading_PAINDING" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.I3I_Explore_MoreFunctions">
-    <configuration name="CustomThrow_Exceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exception_Handling.CustomThrow_Exceptions" />
+  <component name="RunManager" selected="Application.Student5">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Design_OOP_Concepts.Class_Objects.Main" />
       <module name="DSA_QuesList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exception_Handling.*" />
+          <option name="PATTERN" value="Design_OOP_Concepts.Class_Objects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="I0I_Intro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CoreJava_java8._4_StreamAPI.PracticeProblms.I0I_Intro" />
+    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Design_OOP_Concepts.Class_Objects.Student" />
       <module name="DSA_QuesList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CoreJava_java8._4_StreamAPI.PracticeProblms.*" />
+          <option name="PATTERN" value="Design_OOP_Concepts.Class_Objects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="I1I_sumOfEvenNo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CoreJava_java8._4_StreamAPI.PracticeProblms.I1I_sumOfEvenNo" />
+    <configuration name="Student5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Design_OOP_Concepts.Class_Objects.Student5" />
       <module name="DSA_QuesList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CoreJava_java8._4_StreamAPI.PracticeProblms.*" />
+          <option name="PATTERN" value="Design_OOP_Concepts.Class_Objects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="I3I_Explore_MoreFunctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CoreJava_java8._4_StreamAPI.PracticeProblms.I3I_Explore_MoreFunctions" />
+    <configuration name="TestStudent1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Design_OOP_Concepts.Class_Objects.TestStudent1" />
       <module name="DSA_QuesList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CoreJava_java8._4_StreamAPI.PracticeProblms.*" />
+          <option name="PATTERN" value="Design_OOP_Concepts.Class_Objects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CoreJava_java8._4_StreamAPI.ex1" />
+    <configuration name="TestStudent2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Design_OOP_Concepts.Class_Objects.TestStudent2" />
       <module name="DSA_QuesList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CoreJava_java8._4_StreamAPI.PracticeProblms.*" />
+          <option name="PATTERN" value="Design_OOP_Concepts.Class_Objects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.I3I_Explore_MoreFunctions" />
-        <item itemvalue="Application.I1I_sumOfEvenNo" />
-        <item itemvalue="Application.I0I_Intro" />
-        <item itemvalue="Application.ex1" />
-        <item itemvalue="Application.CustomThrow_Exceptions" />
+        <item itemvalue="Application.Student5" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TestStudent2" />
+        <item itemvalue="Application.TestStudent1" />
+        <item itemvalue="Application.Student (1)" />
       </list>
     </recent_temporary>
   </component>
