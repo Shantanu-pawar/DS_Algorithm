@@ -9,8 +9,10 @@ public class ArrayList_functions {
 
     List<Integer> list = new ArrayList<>(List.of(21,32,12,324,123));
 
-    // this is also new method to print arraylist
+    // NOTE : this is also new method to print arraylist
+    // but this returns a fixed size of elements so we cannot add or remove elements from the list
     List<Integer> li = Arrays.asList(232,34,3);
+
 
         System.out.println(list);
         System.out.println(list.size() + " : is the size of this list");
