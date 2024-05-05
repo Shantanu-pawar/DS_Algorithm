@@ -16,7 +16,8 @@ acciojob
 
         // 1. take user input from array
         int [] arr = new int[n];
-        for(int i = 0; i< n; i ++) arr[i]  = in.nextInt();
+        for(int i = 0; i< n; i ++)
+            arr[i]  = in.nextInt();
 
         // 2. now separate characters
         char [] crr = new char[n];

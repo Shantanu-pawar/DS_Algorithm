@@ -1,6 +1,7 @@
 package Questions_nd_CONCEPTS.Arr_String_Ques;
 
 import java.util.HashMap;
+import java.util.stream.Stream;
 
 public class check_ifStringContainsOrNot {
     public static void main(String[] args) {
@@ -8,7 +9,7 @@ public class check_ifStringContainsOrNot {
 
 //      Question : check if my all elements chars is present in the given string (str) or not?
         String  str = "contains";
-        String element = "conz";
+        String element = "tai";
 
         HashMap<Character, Integer> map = new HashMap<>();
         for (int i = 0; i < element.length(); i++) {

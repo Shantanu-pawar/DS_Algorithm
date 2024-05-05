@@ -3,8 +3,7 @@ package CoreJava_java8._1_Lambda_Default_FunctionProg._1_initialisation;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class _4_Sort_Objects_Using_Comparator {
-}
+public class _4_Sort_Objects_Using_Comparator {}
 
 // created student object so that we can sort it in main class
 class Student{
@@ -22,14 +21,13 @@ class Student{
 
 class objectSorting{
     public static void main(String[] args) {
-        Student rahul = new Student(100, "rahul");
-        Student shashi = new Student(1, "sashikant");
-        Student dada = new Student(44, "dada");
 
         ArrayList<Student> list = new ArrayList<Student>();
         list.add(new Student(32, "sagar"));
-        list.add(rahul);
-        list.add(dada);
+        list.add(new Student(100, "rahul"));
+        list.add(new Student(1, "sashikant"));
+
+        Student shashi = new Student(44, "sashiTharur");
         list.add(shashi);
 
         System.out.println("before sorting : " + list);

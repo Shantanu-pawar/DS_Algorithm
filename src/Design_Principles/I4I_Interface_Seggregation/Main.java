@@ -10,7 +10,6 @@ interface Room{
 }
 
 class PremiumUser implements BathTub, Room{
-
     @Override
     public void bathtub(){
         System.out.println("premium user's can use bathtub");
@@ -22,7 +21,6 @@ class PremiumUser implements BathTub, Room{
 }
 
 class RegularUser implements Room{
-
     @Override
     public void room() {
         System.out.println("this is regular user only have access to room.!");

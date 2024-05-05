@@ -18,14 +18,5 @@ public class UseOf_Flatmap {
                 .collect(Collectors.toList());
 
         System.out.println(result);
-
-
-        // find sum using reduce function.
-        List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5);
-        Optional<Integer> sum = numbers.stream()
-                .reduce(Integer::sum);
-
-        System.out.println(sum);
-
     }
 }

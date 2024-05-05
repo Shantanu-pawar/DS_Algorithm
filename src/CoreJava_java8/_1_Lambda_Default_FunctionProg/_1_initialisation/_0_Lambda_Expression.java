@@ -32,11 +32,6 @@ public class _0_Lambda_Expression {
             }
         };
         wel.subtract(23, 4);
-//     _________________________________________________________
-
-        // use of lambda expression using arraylist iteration
-        List<Integer> list = Arrays.asList(23, 43, 112, 32, 12);
-        list.forEach(x -> System.out.print(x + " "));
     }
 }
 

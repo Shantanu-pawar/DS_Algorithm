@@ -1,14 +1,11 @@
 package CoreJava_java8._1_Lambda_Default_FunctionProg._1_initialisation;
 
-public class _1_LambdaExpUse {
-}
-
+public class _1_LambdaExpUse {}
 /*
     how to initialise the lambda ?
     it's a anonymous function so we've to remove the returnType, methodName,
     and accessModifiers
 */
-
 
 class Main {
     public static void main(String[] args) {

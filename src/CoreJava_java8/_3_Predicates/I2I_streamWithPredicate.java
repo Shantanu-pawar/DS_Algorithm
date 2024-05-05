@@ -3,15 +3,15 @@ package CoreJava_java8._3_Predicates;
 import java.util.Arrays;
 import java.util.List;
 import java.util.function.Predicate;
-
-public class I2I_streamWithPredicate {
-}
+import java.util.stream.Collectors;
+public class I2I_streamWithPredicate {}
 
 class StreamWithPredicate{
     public static void main(String[] args) {
 //        useSimplePredicate();
 //        usePredicateWithLambda();
         usePredicateWithString();
+
     }
 
     // check all the string who starts with string ram and then print it
@@ -23,12 +23,11 @@ class StreamWithPredicate{
             if(startsWith.test(str))
                 System.out.print(str + " ");
 
-
         System.out.println("\n \nchecking the words contains cors");
         // suppose we wanted to check if my list contains some words or not ?
-        Predicate<String> wordContains = x -> x.contains("cor");
-        for(String str : list)
-            if(wordContains.test(str)) System.out.print(str + " \n");
+        list.stream()
+                .filter(x -> x.contains("rs"))
+                .forEach(System.out::println);
     }
 
 
