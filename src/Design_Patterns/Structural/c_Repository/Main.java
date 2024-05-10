@@ -1,4 +1,4 @@
-package OOPs_Concepts.Design_Patterns.Structural.c_Repository;
+package Design_Patterns.Structural.c_Repository;
 
 // Step 1: Define the UserRepository interface
 interface UserRepository {

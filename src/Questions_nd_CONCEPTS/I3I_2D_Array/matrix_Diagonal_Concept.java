@@ -33,10 +33,12 @@ public class matrix_Diagonal_Concept {
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
 
+                // for right diagonal
                 if (i == j) {
                     if(matrix[i][j] == 0) flag = false;
                 }
 
+                // for left-side diagonal
                 else if ( i + j == n - 1 ) {
                     if(matrix[i][j] == 0) flag = false;
                 }

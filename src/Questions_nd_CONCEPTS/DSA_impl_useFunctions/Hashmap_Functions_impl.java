@@ -29,8 +29,7 @@ public class Hashmap_Functions_impl {
 
 //        Another way to print
         for (int a : map.keySet())
-            if(map.get(a) == 1)
-                System.out.print(a + " : is the key and the value is : " + map.get(a));
+                System.out.println(a + " : is the key and the value is : " + map.get(a));
 
 
         // here we're finding maximum element's freq
