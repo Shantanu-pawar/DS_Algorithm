@@ -1,5 +1,14 @@
 package CoreJava_java8;
 
+/* IMP question : what is generic class?
+
+ generic class is just a way to handle the all the datatype with the same blueprint
+ by using T, we just have to define <> this thing in obj creation of the class.
+ NOTE : we can also define the two variables in this ex : class Generics <T, V, A> like this.
+
+*/
+
+
 public class Generic_class {
     public static void main(String[] args) {
         Generics<Double> c = new Generics<>(231.323);
@@ -7,9 +16,6 @@ public class Generic_class {
     }
 }
 
-// generic class is just a way to handle the all the datatype with the same blueprint
-// by using T, we just have to define <> this thing in obj creation of the class.
-// NOTE : we can also define the two variables in this ex : class Generics <T, V, A> like this.
 class Generics<T> {
     T val;
     Generics(T val) {

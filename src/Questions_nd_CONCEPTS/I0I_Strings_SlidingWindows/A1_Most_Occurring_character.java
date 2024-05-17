@@ -1,6 +1,5 @@
-package Questions_nd_CONCEPTS.I0I_Strings;
+package Questions_nd_CONCEPTS.I0I_Strings_SlidingWindows;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class A1_Most_Occurring_character {

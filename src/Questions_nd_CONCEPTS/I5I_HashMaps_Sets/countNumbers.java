@@ -29,7 +29,7 @@ public class countNumbers {
 
 
 
-        // neive approach using bubble sort approach
+        // naive approach using bubble sort approach
 /*
     int count = 0;
     for (int i=0; i<a.length; i++) {

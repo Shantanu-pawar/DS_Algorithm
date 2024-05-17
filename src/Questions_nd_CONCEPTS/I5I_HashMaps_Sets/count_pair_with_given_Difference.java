@@ -1,48 +1,46 @@
 package Questions_nd_CONCEPTS.I5I_HashMaps_Sets;
-
-/*https://course.acciojob.com/idle?question=803b4abc-3829-4b3b-9dab-74da720ff06a
-we have given a pair and k value
-so we just have to find the pairs wo give us the difference of k
- */
-
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
+
 
 public class count_pair_with_given_Difference {
     public static void main(String[] args) {
-        int []arr = {5 ,10 ,3 ,2 ,50 ,80};
-        int k = 78;
 
-        findDiff(arr, k);
+     /* find the pairs who's sum is equals to target
+     [here's i've managed the cornerCase also - what if multiple same elements occurs]
 
-    }
-    static void findDiff(int []arr, int k){
-        HashMap<Integer, Integer> map = new HashMap<>();
-        int count = 0;
-        List<List<Integer>> list = new ArrayList<>(); // storing all the pairs
+     INTERESTING CONCEPT
+     */
 
-        // INTERESTING CONCEPT : how to use arraylist for storing pairs
-        for(int num : arr) {
-            int diff = k + num;
-            if(map.containsKey(num)) {
-                count++;
-                List<Integer> pair = new ArrayList<>();
-                pair.add(num - k);
-                pair.add(num);
+        int[] arr = {15, 0, 4, 4, 0, 12};
+        int target = 4;
 
-                list.add(pair);
+        List<List<Integer>> list = new ArrayList<>();
+        Map<Integer, List<Integer>> map = new HashMap<>();
 
-                // we're putting diff here cause then in future we should know that the num is present in map
-                map.put(num, map.get(num) + 1);
+        for (int i = 0; i < arr.length; i++) {
+            int x = arr[i];
+            int diff = target - x;
+
+            if (map.containsKey(diff)) {
+                List<Integer> indices = map.get(diff);
+                for (int index : indices) {
+                    List<Integer> sublist = new ArrayList<>();
+                    sublist.add(index);
+                    sublist.add(i);
+                    list.add(sublist);
+                }
             }
-            else map.put(diff, map.getOrDefault(diff, 0) +1);
 
+            // Update the map
+            if (!map.containsKey(x)) {
+                map.put(x, new ArrayList<>());
+            }
+            map.get(x).add(i);
         }
-        System.out.println(count);
 
-        // Now here printing that 2D ArrayList
-        for(List<Integer> p : list)
-            System.out.println(p.get(0) + " " + p.get(1));
+        System.out.println(list);
     }
 }

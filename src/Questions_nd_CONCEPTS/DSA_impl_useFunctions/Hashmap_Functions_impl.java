@@ -10,41 +10,29 @@ public class Hashmap_Functions_impl {
 //        printDuplicateChars(str);
 
         int []arr = {23,34,23,23,23,12};
-        printDuplicateIntegers(arr);
+        IterateHashMap(arr);
     }
 
-    static void printDuplicateIntegers(int []arr){
+    static void IterateHashMap(int []arr) {
         HashMap<Integer, Integer> map = new HashMap<>();
 
-        for (int i = 0; i < arr.length; i++) {
-            // this will check the values of the key and update it
-            map.put(arr[i], map.getOrDefault(arr[i], 0) +1);
-        }
+        // this will check the values of the key and update it
+        for (int i = 0; i < arr.length; i++)
+            map.put(arr[i], map.getOrDefault(arr[i], 0) + 1);
+
 
 //        print Using entrySet
-        for (Map.Entry<Integer, Integer> e : map.entrySet()) {
-            System.out.println("the key is :" + e.getKey() +
-                    " :: and value is " + e.getValue());
-        }
+        for (Map.Entry<Integer, Integer> entry : map.entrySet())
+            System.out.println("key:" + entry.getKey() +" value: " + entry.getValue());
 
 //        Another way to print
         for (int a : map.keySet())
-                System.out.println(a + " : is the key and the value is : " + map.get(a));
+            System.out.println(a + " : is the key and the value is : " + map.get(a));
 
-
-        // here we're finding maximum element's freq
-        int  value = 0, freq = 0;
-        for(int ans : map.keySet()){
-            if(map.get(ans) > freq){
-                freq = map.get(ans); value = ans;
-            }
-        }
-        System.out.println(value + " is the value and freq is : " + freq);
     }
 
 
     static void printDuplicateChars(String str){
-
         HashMap<Character, Integer> map = new HashMap<>();
 
         for (int i = 0; i < str.length(); i++) {
@@ -55,7 +43,6 @@ public class Hashmap_Functions_impl {
 
             else map.put(ch, 1);
         }
-
 
         for(char ch : map.keySet()) {
             if (map.get(ch) > 1) {

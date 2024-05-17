@@ -1,46 +1,69 @@
 package Questions_nd_CONCEPTS.Arrays_And_Strings_concepts;
 
+import java.util.Arrays;
+
 public class String_all_methods {
     public static void main(String[] args) {
-    trim();
+        convertIntegerArrToString();
     }
 
-    static void upperLowerCase(){
+//    convert integer array into string arr
+    static void convertIntegerArrToString(){
+        int []arr = {12, 23, 4, 98, 53};
+
+        String [] sarr = new String[arr.length];
+        for (int i = 0; i < arr.length; i++) {
+            sarr[i] = String.valueOf(arr[i]);
+        }
+
+        System.out.println(Arrays.toString(sarr));
+    }
+
+
+    static void findNumberLength() {
+        int number = 31231;
+        int digits = String.valueOf(number).length();
+
+        System.out.println(digits);
+    }
+
+
+    static void upperLowerCase() {
         //  this is the type used for converting the Characters  in capital or small
         //  to Upper case() | to lower case()
 
-        String s1= "FreeDDy";
+        String s1 = "FreeDDy";
         String a1 = s1.toUpperCase();
         String a2 = s1.toLowerCase();
 
         System.out.println(a1 + ": is the upper cases" + "\n" + a2 + "all lower case");
     }
 
-    static void getCharacter(){
+    static void getCharacter() {
 //        3. charAt() = this will return the specific number of char.
         String s = "dsaForLife";
         char b1 = s.charAt(3);
         System.out.println(b1 + ": is the character in string ");
     }
 
-    static void substring(){
+    static void substring() {
         // substring() = it returns part of the String
 
         String c = "Programming of mind";
-        String c1 = c.substring(2,15); // this returns the substrings from string
+        String c1 = c.substring(2, 15); // this returns the substrings from string
         System.out.println(c1);
     }
 
-    static void replace(){
 
-        String str  = "acciojob";
+    static void replace() {
+        String str = "acciojob";
         String ans = str.replace("cc", "O");
         System.out.println(ans);
     }
 
-    static void concat(){
-        //  6. concat () : it basically just combines the two strings in one String
 
+    static void concat() {
+        //  6. concat () : it basically just combines the two strings in one String
         String e = " rada hua naa";
         String e1 = "ss ke pass huaa";
 
@@ -48,7 +71,7 @@ public class String_all_methods {
         System.out.println(e2);
     }
 
-    static void index(){
+    static void index() {
 
 //  indexOf() | or lastIndexOf();
 //  it returns the index value of given char(s).
@@ -58,12 +81,12 @@ public class String_all_methods {
         int f2 = f.lastIndexOf('n'); // this shows last index
         int f3 = f.indexOf("ments");
 
-        System.out.println( " this shows only first index : " + f1);
-        System.out.println("This shows the last index only : "+ f2);
+        System.out.println(" this shows only first index : " + f1);
+        System.out.println("This shows the last index only : " + f2);
         System.out.println("this shows only word starting index : " + f3);
     }
 
-    static void equals(){
+    static void equals() {
         //   equals() \ equalsIgnoreCase() : it compress two String and returns boolean value
 
         String g = "Apple";
@@ -73,12 +96,12 @@ public class String_all_methods {
         boolean g3 = g.equalsIgnoreCase(g1);
 
         System.out.println("this checks the both strings exact equal or not and return " +
-                "true or false : " + g2 );
+                "true or false : " + g2);
 
         System.out.println("this just ignore the cases only and check both strings : " + g3);
     }
 
-    static void compareTo(){
+    static void compareTo() {
 //  compareTo() | compareToIgnoreCase();
 //  it compares two string and returns ascii difference of them
         String k = "apple";
@@ -90,13 +113,13 @@ public class String_all_methods {
         System.out.println(k3);
     }
 
-    static void trim(){
-    //  trim(); -> it removes all black space before string starts
+    static void trim() {
+        //  trim(); -> it removes all black space before string starts
         String l = "             bhauuu raja   ";
         String l2 = l.trim();
         System.out.println(l2);
 
-    //  11. starts with | ends with
+        //  11. starts with | ends with
 
         String xx = "program";
         boolean aa = xx.startsWith("gram");

@@ -26,7 +26,6 @@ class objectSorting{
         list.add(new Student(32, "sagar"));
         list.add(new Student(100, "rahul"));
         list.add(new Student(1, "sashikant"));
-
         Student shashi = new Student(44, "sashiTharur");
         list.add(shashi);
 
@@ -34,6 +33,7 @@ class objectSorting{
 
         // here i've written custom comparator for descending sorting
         Collections.sort(list, (a, b) -> b.id - a.id);
+
         System.out.println("\n after sorting");
         System.out.println(list);
     }

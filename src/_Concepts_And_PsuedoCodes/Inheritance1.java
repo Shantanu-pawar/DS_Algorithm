@@ -1,4 +1,4 @@
-package _Output_Based_PsuedoCodes;
+package _Concepts_And_PsuedoCodes;
 
 public class Inheritance1 {
     public static void main(String[] args) {
@@ -27,6 +27,8 @@ class B extends A {
         System.out.println("B");
     }
 
+    // since this method is not present in parent so we can't access
+    // after defining clild class obj.
     void show1() {
         System.out.println("A is showing in new class");
     }

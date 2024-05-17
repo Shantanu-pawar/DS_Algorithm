@@ -3,13 +3,13 @@ package Questions_nd_CONCEPTS.I9I_Recursion;
 public class o2_fibonacci {
     public static void main(String[] args) {
 
-        int n = 9;
+        int n = 6;
         int ans = fibonacci(n);
         System.out.println(ans);
     }
     static int fibonacci(int n){
 
-        // base cases of fibo
+        // base cases of fibonacci
         if(n == 1) return 0;
         if(n == 2) return 1;
 
