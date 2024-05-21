@@ -1,23 +1,36 @@
 package Design_Principles.I1I_Single_Responsibility;
 
-import java.math.BigDecimal;
+
+class Employee {
+    private String name;
+    private double baseSalary;
+
+    public Employee(String name, double baseSalary) {
+        this.name = name;
+        this.baseSalary = baseSalary;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public double getBaseSalary() {
+        return baseSalary;
+    }
+}
+
+
+class EmployeePrinter {
+    public static void printEmployeeDetails(Employee employee) {
+        System.out.println("Name: " + employee.getName());
+        System.out.println("Base Salary: " + employee.getBaseSalary());
+    }
+}
+
 
 public class Main {
     public static void main(String[] args) {
-        Account account = new Account();
-        account.setAccountNumber(111);
-        account.setFirstName("shantanu");
-        account.setTotalAmount(BigDecimal.valueOf(2398503.147));
-        AccountOperations accountOperations = new AccountOperations();
-        accountOperations.addAccount(account);
-
-        TransactionOperations transactionOperations = new TransactionOperations();
-        transactionOperations.deposit(BigDecimal.valueOf(111),111);
-
-        System.out.println("This account is belongs to : " + account.getFirstName() +
-                "\n with account number: " + account.getAccountNumber());
-        System.out.println("having account balance of " + account.getTotalAmount());
-        System.out.println("__________");
-
+        Employee employee = new Employee("Rahul", 1500000);
+        EmployeePrinter.printEmployeeDetails(employee);
     }
 }
