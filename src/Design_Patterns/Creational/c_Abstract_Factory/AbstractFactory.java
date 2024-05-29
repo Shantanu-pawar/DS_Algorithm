@@ -23,14 +23,21 @@ interface PhoneFactory {
     Phone createPhone();
 }
 
-class AndroidPhoneFactory implements PhoneFactory {
+class Samsung implements PhoneFactory {
     @Override
     public Phone createPhone() {
         return new Android();
     }
 }
 
-class IPhoneFactory implements PhoneFactory {
+class Redmi implements PhoneFactory{
+    @Override
+    public Phone createPhone() {
+        return new Android();
+    }
+}
+
+class MacMini implements PhoneFactory {
     @Override
     public Phone createPhone() {
         return new Iphone();
@@ -39,7 +46,7 @@ class IPhoneFactory implements PhoneFactory {
 
 class AbstractFactory {
     public static void main(String[] args) {
-        PhoneFactory androidPhoneFactory = new AndroidPhoneFactory();
+        PhoneFactory androidPhoneFactory = new Samsung();
         Phone androidPhone = androidPhoneFactory.createPhone();
         androidPhone.brand();
     }

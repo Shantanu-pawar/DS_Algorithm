@@ -5,22 +5,53 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7a8c732-f908-4d82-bebf-e2cc3143bd19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Design_Principles/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CoreJava_java8/_4_StreamAPI/Faq_Problms_1st_Priority_beforPractice/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CoreJava_java8/_4_StreamAPI/Faq_Problms_1st_Priority_beforPractice/EmployeeData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CoreJava_java8/_4_StreamAPI/Faq_Problms_1st_Priority_beforPractice/Questions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CoreJava_java8/_4_StreamAPI/Faq_Problms_1st_Priority_beforPractice/Solutions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CoreJava_java8/_4_StreamAPI/I0I_Intro_easyLevelQues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CoreJava_java8/_4_StreamAPI/I0I_Intro_easyLevel_String_Manipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CoreJava_java8/_4_StreamAPI/I0I_Intro_med_LevelQues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/Arrays_And_Strings_concepts/RegexConcept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I11I_Binary_Search/a_find_Nth_root_of_M.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I11I_Binary_Search/b_find_minimum_Difference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I11I_Binary_Search/c_Find_Minimum_Removals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I11I_Binary_Search/d_Search_in_nearly_sorted_arr.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_Principles/I1I_Single_Responsibility/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_Principles/I1I_Single_Responsibility/AccountOperations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_Principles/I1I_Single_Responsibility/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_Principles/I1I_Single_Responsibility/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_Principles/I1I_Single_Responsibility/TransactionOperations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_Principles/I3I_Liskov_Substitution/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_Principles/I3I_Liskov_Substitution/Vehicle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_Principles/I3I_Liskov_Substitution/VehicleType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_Principles/I3I_Liskov_Substitution/VehicleType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/I0I_Strings_SlidingWindows/A4_find_Anagram_ImpQues.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/I0I_Strings_SlidingWindows/A5_Longest_Substring.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Principles/I1I_Single_Responsibility/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Principles/I1I_Single_Responsibility/AccountOperations.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Principles/I1I_Single_Responsibility/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Principles/I1I_Single_Responsibility/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Principles/I1I_Single_Responsibility/TransactionOperations.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Principles/I3I_Liskov_Substitution/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Principles/I3I_Liskov_Substitution/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Principles/I5I_Dependency_Inversion/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Principles/I5I_Dependency_Inversion/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/_4_StreamAPI/Common_Interview_Questions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/_4_StreamAPI/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/_4_StreamAPI/I0I_Intro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/_4_StreamAPI/I0I_Intro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/_4_StreamAPI/I1I_sumOfEvenNo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/_4_StreamAPI/I2I_findDuplicate_Obj_______SOLVEtHIS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/_4_StreamAPI/Interview_problmStatements/Address.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/_4_StreamAPI/Interview_problmStatements/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/_4_StreamAPI/Interview_problmStatements/I1I_sort_Obj_By_Locations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/_4_StreamAPI/Interview_problmStatements/I2I_sort_Using_Compators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/_4_StreamAPI/Interview_problmStatements/I3I_Use_Of_Distinct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/_4_StreamAPI/Interview_problmStatements/Main1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/_4_StreamAPI/Interview_problmStatements/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/_4_StreamAPI/Java8Streams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/_4_StreamAPI/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/_4_StreamAPI/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_Patterns/Creational/a_singleton/A1_LazySingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_Patterns/Creational/a_singleton/A1_LazySingleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_Patterns/Creational/a_singleton/A3_Synchronised_Way_Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_Patterns/Creational/a_singleton/A3_Synchronised_Way_Singleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_Patterns/Creational/a_singleton/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_Patterns/Creational/a_singleton/Singleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_Patterns/Creational/c_Abstract_Factory/AbstractFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_Patterns/Creational/c_Abstract_Factory/AbstractFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_Patterns/Creational/c_Abstract_Factory/AndroidPhoneFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_Patterns/Creational/c_Abstract_Factory/IPhoneFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/I10I_two_Pointers/Remove_dups_in_Contiguous_Fashion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/I10I_two_Pointers/Remove_dups_in_Contiguous_Fashion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/TEST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/TEST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreJava_java8/_4_StreamAPI/Common_Interview_Questions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreJava_java8/_4_StreamAPI/I0I_Intro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava_java8/_4_StreamAPI/I0I_Intro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreJava_java8/_4_StreamAPI/I1I_sumOfEvenNo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreJava_java8/_4_StreamAPI/I2I_findDuplicate_Obj_______SOLVEtHIS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava_java8/_4_StreamAPI/I2I_ObjectBased_Questions_IMP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreJava_java8/_4_StreamAPI/Interview_problmStatements/I1I_sort_Obj_By_Locations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreJava_java8/_4_StreamAPI/Interview_problmStatements/I2I_sort_Using_Compators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava_java8/_4_StreamAPI/I1I_sort_Using_Compators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreJava_java8/_4_StreamAPI/Interview_problmStatements/I3I_Use_Of_Distinct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Creational/a_singleton/A1_LazySingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/Creational/a_singleton/A1_LazySingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Creational/a_singleton/A3_Synchronised_Way_Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/Creational/a_singleton/A3_Synchronised_Way_Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Creational/c_Abstract_Factory/AbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/Creational/c_Abstract_Factory/AbstractFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I10I_two_Pointers/Remove_dups_in_Contiguous_Fashion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I10I_two_Pointers/Remove_dups_in_Contiguous_Fashion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TEST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TEST.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +73,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://C:/Program Files/Java/jdk-17/lib/src.zip!/java.base/java/lang/Object.java" root0="SKIP_INSPECTION" />
     <setting file="jar://C:/Program Files/Java/jdk-17/lib/src.zip!/java.base/java/lang/String.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://C:/Program Files/Java/jdk-17/lib/src.zip!/java.base/java/lang/System.java" root0="SKIP_INSPECTION" />
     <setting file="jar://C:/Program Files/Java/jdk-17/lib/src.zip!/java.base/java/util/ArrayList.java" root0="SKIP_INSPECTION" />
     <setting file="jar://C:/Program Files/Java/jdk-17/lib/src.zip!/java.base/java/util/stream/IntStream.java" root0="SKIP_INSPECTION" />
   </component>
@@ -70,6 +102,9 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="I8I_LinkedList.Singly_LL" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Intellej - Maven codes\DSA - QuesList\DSA_QuesList\src\Questions_nd_CONCEPTS\I11I_Binary_Search" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\__Maven - intellej codes\DSA - QuesList\DSA_QuesList\src\CoreJava_java8\StreamAPI" />
       <recent name="D:\__Maven - intellej codes\DSA_QuesList\src\Questions_nd_CONCEPTS" />
@@ -78,13 +113,13 @@
       <recent name="D:\__Maven - intellej codes\DSA_QuesList\src\I0I_MultiThreading_PAINDING" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Design_Principles.I5I_Dependency_Inversion.Main">
-    <configuration name="Design_Principles.I2I_Open_Closed_principle.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Design_Principles.I2I_Open_Closed_principle.Main" />
+  <component name="RunManager" selected="Application.I0I_Intro_easyLevel_String_Manipulation">
+    <configuration name="I0I_Intro_easyLevelQues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CoreJava_java8._4_StreamAPI.I0I_Intro_easyLevelQues" />
       <module name="DSA_QuesList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Design_Principles.I2I_Open_Closed_principle.*" />
+          <option name="PATTERN" value="CoreJava_java8._4_StreamAPI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Design_Principles.I5I_Dependency_Inversion.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Design_Principles.I5I_Dependency_Inversion.Main" />
+    <configuration name="I0I_Intro_easyLevel_String_Manipulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CoreJava_java8._4_StreamAPI.I0I_Intro_easyLevel_String_Manipulation" />
       <module name="DSA_QuesList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Design_Principles.I5I_Dependency_Inversion.*" />
+          <option name="PATTERN" value="CoreJava_java8._4_StreamAPI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestClass (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Design_Principles.TestClass" />
+    <configuration name="I2I_ObjectBased_Questions_IMP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CoreJava_java8._4_StreamAPI.I2I_ObjectBased_Questions_IMP" />
       <module name="DSA_QuesList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Design_Principles.*" />
+          <option name="PATTERN" value="CoreJava_java8._4_StreamAPI.Student" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Design_Principles.TestClass" />
+    <configuration name="I2I_ObjectBased_Questions_IMP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CoreJava_java8._4_StreamAPI.I2I_ObjectBased_Questions_IMP" />
       <module name="DSA_QuesList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Design_Principles.*" />
+          <option name="PATTERN" value="CoreJava_java8._4_StreamAPI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +166,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Vehicle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Design_Principles.I3I_Liskov_Substitution.Vehicle" />
+    <configuration name="Questions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CoreJava_java8._4_StreamAPI.Faq_Problms_1st_Priority_beforPractice.Questions" />
       <module name="DSA_QuesList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Design_Principles.I3I_Liskov_Substitution.*" />
+          <option name="PATTERN" value="CoreJava_java8._4_StreamAPI.Faq_Problms_1st_Priority_beforPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegexConcept" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Questions_nd_CONCEPTS.Arrays_And_Strings_concepts.RegexConcept" />
+      <module name="DSA_QuesList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Questions_nd_CONCEPTS.Arrays_And_Strings_concepts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Design_Principles.I5I_Dependency_Inversion.Main" />
-        <item itemvalue="Application.TestClass" />
-        <item itemvalue="Application.TestClass (1)" />
-        <item itemvalue="Application.Design_Principles.I2I_Open_Closed_principle.Main" />
-        <item itemvalue="Application.Vehicle" />
+        <item itemvalue="Application.I0I_Intro_easyLevel_String_Manipulation" />
+        <item itemvalue="Application.RegexConcept" />
+        <item itemvalue="Application.I0I_Intro_easyLevelQues" />
+        <item itemvalue="Application.Questions" />
+        <item itemvalue="Application.I2I_ObjectBased_Questions_IMP" />
       </list>
     </recent_temporary>
   </component>

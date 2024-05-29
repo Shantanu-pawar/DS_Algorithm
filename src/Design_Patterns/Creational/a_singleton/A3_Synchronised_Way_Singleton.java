@@ -10,7 +10,6 @@ class SingleTon{
     public static SingleTon getObj(){
 
         if(obj == null){
-
             synchronized (SingleTon.class){
                 if(obj == null)
                     obj = new SingleTon();

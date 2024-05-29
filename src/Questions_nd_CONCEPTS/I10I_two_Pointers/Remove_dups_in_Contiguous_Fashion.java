@@ -6,24 +6,24 @@ public class Remove_dups_in_Contiguous_Fashion {
         String str = "aaabbcdeggebaxx";
         // remove continuous fashion duplicates
 
-        int i = 0;
-        int j = i + 1;
+        int start = 0;
+        int end = start + 1;
         String ans = "";
 
         int n = str.length();
-        while (j < n) {
+        while (end < n) {
             int count = 0;
-            while (j < n && str.charAt(i) == str.charAt(j)) {
-                j++;
+            while (end < n && str.charAt(start) == str.charAt(end)) {
+                end++;
                 count++;
             }
             if (count == 0)
-                ans += str.charAt(i);
+                ans += str.charAt(start);
 
             // and if i wanted to remove the duplicates chars only then use this
             // if(count >= 0) ans += str.charAt(i);
-            i = j;
-            j = i + 1;
+            start = end;
+            end = start + 1;
         }
         System.out.println(ans);
     }
