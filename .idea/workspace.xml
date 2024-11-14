@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7a8c732-f908-4d82-bebf-e2cc3143bd19" name="Changes" comment="">
+    <list default="true" id="d7a8c732-f908-4d82-bebf-e2cc3143bd19" name="Changes" comment="Refactoring the repo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/_4_StreamAPI/Faq_Problms_1st_Priority_beforPractice/Questions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/_4_StreamAPI/Faq_Problms_1st_Priority_beforPractice/Questions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/TEST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/TEST.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CoreJava_java8/_4_StreamAPI/Faq_Problms_1st_Priority_beforPractice/Questions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava_java8/_4_StreamAPI/Faq_Problms_1st_Priority_beforPractice/Questions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TEST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TEST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_OOP_Concepts/Abstraction/PunjabNational.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_OOP_Concepts/Abstraction/PunjabNational.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_OOP_Concepts/Abstraction/SBI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_OOP_Concepts/Abstraction/SBI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_OOP_Concepts/Abstraction/c1_Abstract_class_And_Methods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_OOP_Concepts/Abstraction/c1_Abstract_class_And_Methods.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,16 +45,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Intellej - Maven codes/DSA - QuesList/DSA_QuesList&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.notifications&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/obsedian/Backup obsidian",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.notifications"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="I8I_LinkedList.Singly_LL" />
@@ -150,6 +149,14 @@
       <option name="presentableId" value="Default" />
       <updated>1693052074508</updated>
     </task>
+    <task id="LOCAL-00001" summary="Refactoring the repo">
+      <created>1731561889831</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731561889831</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -165,6 +172,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Refactoring the repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactoring the repo" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
