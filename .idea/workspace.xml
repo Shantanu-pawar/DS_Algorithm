@@ -6,9 +6,25 @@
   <component name="ChangeListManager">
     <list default="true" id="d7a8c732-f908-4d82-bebf-e2cc3143bd19" name="Changes" comment="Refactoring the repo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_OOP_Concepts/Abstraction/PunjabNational.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_OOP_Concepts/Abstraction/PunjabNational.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_OOP_Concepts/Abstraction/SBI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_OOP_Concepts/Abstraction/SBI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_OOP_Concepts/Abstraction/c1_Abstract_class_And_Methods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_OOP_Concepts/Abstraction/c1_Abstract_class_And_Methods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_JAVA NOTEs/_notes_java/README 1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_JAVA NOTEs/_notes_java/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_JAVA NOTEs/_notes_java/design_patterns_intro/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_JAVA NOTEs/_notes_java/java_basics_and_oops/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_JAVA NOTEs/_notes_java/java_collections/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_JAVA NOTEs/_notes_java/java_exceptions/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_JAVA NOTEs/_notes_java/java_generics/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_JAVA NOTEs/_notes_java/java_how_it_works/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_JAVA NOTEs/_notes_java/java_important_methods/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_JAVA NOTEs/_notes_java/java_input_output/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_JAVA NOTEs/_notes_java/java_keywords/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_JAVA NOTEs/_notes_java/java_multithreading/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_JAVA NOTEs/_notes_java/java_networking/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_JAVA NOTEs/_notes_java/java_oops_rules/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_JAVA NOTEs/_notes_java/java_regex_and_lambda/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_JAVA NOTEs/_notes_java/java_serialization/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_JAVA NOTEs/_notes_java/java_thread_synchronization/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_JAVA NOTEs/_notes_java/leetcode_dsa_patterns/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_JAVA NOTEs/_notes_java/websites/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,16 +61,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/obsedian/Backup obsidian",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.notifications"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/obsedian/Backup obsidian&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.notifications&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="I8I_LinkedList.Singly_LL" />
@@ -156,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1731561889831</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Refactoring the repo">
+      <created>1731564622394</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731564622394</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
