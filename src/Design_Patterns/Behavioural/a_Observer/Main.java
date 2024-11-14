@@ -1,4 +1,5 @@
-package OOPs_Concepts.Design_Patterns.Behavioural.a_Observer;
+package Design_Patterns.Behavioural.a_Observer;
+
 import java.util.ArrayList;
 import java.util.List;
 
