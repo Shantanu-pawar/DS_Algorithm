@@ -5,27 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7a8c732-f908-4d82-bebf-e2cc3143bd19" name="Changes" comment="Refactoring the repo">
-      <change afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I0I_Strings_SlidingWindows/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I0I_Strings_SlidingWindows/sum_of_allSubArrs_of_Size_K.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/_4_StreamAPI/Faq_Problms_1st_Priority_beforPractice/EmployeeData.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/_4_StreamAPI/Faq_Problms_1st_Priority_beforPractice/EmployeeData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_OOP_Concepts/Abstraction/PunjabNational.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_OOP_Concepts/Abstraction/PunjabNational.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_OOP_Concepts/Abstraction/SBI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_OOP_Concepts/Abstraction/SBI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_OOP_Concepts/Abstraction/School.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_OOP_Concepts/Abstraction/Ssvps.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_OOP_Concepts/Abstraction/c1_Abstract_class_And_Methods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_OOP_Concepts/Abstraction/c1_Abstract_class_And_Methods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/OOPs_Concepts/Design_Patterns/Behavioural/a_Observer/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/OOPs_Concepts/Design_Patterns/Behavioural/a_Observer/Observer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/OOPs_Concepts/Design_Patterns/Behavioural/a_Observer/StockMarket.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/OOPs_Concepts/Design_Patterns/Behavioural/a_Observer/Subject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/OOPs_Concepts/Design_Patterns/Behavioural/a_Observer/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/TEST.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/_Concepts_And_PsuedoCodes/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/_Concepts_And_PsuedoCodes/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/_Concepts_And_PsuedoCodes/Constructor_Chaining.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/_Concepts_And_PsuedoCodes/Inheritance1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/_Concepts_And_PsuedoCodes/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/_Concepts_And_PsuedoCodes/Test.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +48,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Intellej - Maven codes/DSA - QuesList/DSA_QuesList",
+    "last_opened_file_path": "D:/Intellej - Maven codes/DSA - QuesList/OOPs _ design patterns [GIT CODE]",
     "settings.editor.selected.configurable": "reference.settings.ide.settings.notifications"
   }
 }]]></component>
