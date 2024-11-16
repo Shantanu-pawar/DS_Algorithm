@@ -5,26 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7a8c732-f908-4d82-bebf-e2cc3143bd19" name="Changes" comment="Refactoring the repo">
+      <change afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I0I_Strings_SlidingWindows/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I0I_Strings_SlidingWindows/sum_of_allSubArrs_of_Size_K.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_JAVA NOTEs/_notes_java/README 1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_JAVA NOTEs/_notes_java/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_JAVA NOTEs/_notes_java/design_patterns_intro/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_JAVA NOTEs/_notes_java/java_basics_and_oops/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_JAVA NOTEs/_notes_java/java_collections/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_JAVA NOTEs/_notes_java/java_exceptions/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_JAVA NOTEs/_notes_java/java_generics/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_JAVA NOTEs/_notes_java/java_how_it_works/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_JAVA NOTEs/_notes_java/java_important_methods/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_JAVA NOTEs/_notes_java/java_input_output/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_JAVA NOTEs/_notes_java/java_keywords/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_JAVA NOTEs/_notes_java/java_multithreading/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_JAVA NOTEs/_notes_java/java_networking/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_JAVA NOTEs/_notes_java/java_oops_rules/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_JAVA NOTEs/_notes_java/java_regex_and_lambda/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_JAVA NOTEs/_notes_java/java_serialization/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_JAVA NOTEs/_notes_java/java_thread_synchronization/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_JAVA NOTEs/_notes_java/leetcode_dsa_patterns/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_JAVA NOTEs/_notes_java/websites/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/_4_StreamAPI/Faq_Problms_1st_Priority_beforPractice/EmployeeData.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/CoreJava_java8/_4_StreamAPI/Faq_Problms_1st_Priority_beforPractice/EmployeeData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_OOP_Concepts/Abstraction/PunjabNational.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_OOP_Concepts/Abstraction/PunjabNational.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_OOP_Concepts/Abstraction/SBI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_OOP_Concepts/Abstraction/SBI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_OOP_Concepts/Abstraction/School.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_OOP_Concepts/Abstraction/Ssvps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_OOP_Concepts/Abstraction/c1_Abstract_class_And_Methods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_OOP_Concepts/Abstraction/c1_Abstract_class_And_Methods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/OOPs_Concepts/Design_Patterns/Behavioural/a_Observer/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/OOPs_Concepts/Design_Patterns/Behavioural/a_Observer/Observer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/OOPs_Concepts/Design_Patterns/Behavioural/a_Observer/StockMarket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/OOPs_Concepts/Design_Patterns/Behavioural/a_Observer/Subject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/OOPs_Concepts/Design_Patterns/Behavioural/a_Observer/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/TEST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/_Concepts_And_PsuedoCodes/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/_Concepts_And_PsuedoCodes/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/_Concepts_And_PsuedoCodes/Constructor_Chaining.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/_Concepts_And_PsuedoCodes/Inheritance1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/_Concepts_And_PsuedoCodes/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/_Concepts_And_PsuedoCodes/Test.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,16 +62,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/obsedian/Backup obsidian&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.notifications&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/Intellej - Maven codes/DSA - QuesList/DSA_QuesList",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.notifications"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="I8I_LinkedList.Singly_LL" />
@@ -86,13 +87,13 @@
       <recent name="D:\__Maven - intellej codes\DSA_QuesList\src\I0I_MultiThreading_PAINDING" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.c1_Abstract_class_And_Methods (2)">
-    <configuration name="I0I_Intro_easyLevel_String_Manipulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CoreJava_java8._4_StreamAPI.I0I_Intro_easyLevel_String_Manipulation" />
+  <component name="RunManager" selected="Application.Solution">
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Questions_nd_CONCEPTS.I0I_Strings_SlidingWindows.Solution" />
       <module name="DSA_QuesList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CoreJava_java8._4_StreamAPI.*" />
+          <option name="PATTERN" value="Questions_nd_CONCEPTS.I0I_Strings_SlidingWindows.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.c1_Abstract_class_And_Methods (2)" />
         <item itemvalue="Application.c1_Abstract_class_And_Methods (1)" />
         <item itemvalue="Application.c1_Abstract_class_And_Methods" />
         <item itemvalue="Application.TEST" />
-        <item itemvalue="Application.I0I_Intro_easyLevel_String_Manipulation" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1731564622394</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Refactoring the repo">
+      <created>1731565340928</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731565340928</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
