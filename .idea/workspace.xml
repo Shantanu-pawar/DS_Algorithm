@@ -4,7 +4,169 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7a8c732-f908-4d82-bebf-e2cc3143bd19" name="Changes" comment="Refactoring the repo" />
+    <list default="true" id="d7a8c732-f908-4d82-bebf-e2cc3143bd19" name="Changes" comment="repo new questions added and prev modified">
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/I0I_Strings_SlidingWindows/A4_maximumSumSubarray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/I0I_Strings_SlidingWindows/Solutions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/I0I_Strings_SlidingWindows/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/BinaryQues/Aggresive_Cows.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/BinaryQues/Bitonic_Arr_Find_Target_Element.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/BinaryQues/Infinite_Sorted_Arr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/BinaryQues/Number_Of_Occurances_GOOGLE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/BinaryQues/Order_Agnostic_BinarySearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/BinaryQues/Repeated_elements_in_SortedArr_GOOGLE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/BinaryQues/Search_in_rotated_Sorted_Arr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/BinaryQues/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/BinaryQues/Square_Root_Of_Number.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/BinaryQues/Target_element_In_InfiniteSortedArr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/BinaryQues/find_Ceiling_inSortedArr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/BinaryQues/find_Floor_ceil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/HashMap/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/HashMap/a_Find_Given_Difference.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/HashMap/b_find_repeatations_of_char.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/HashMap/c_print_first_non_repetitive_char.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/HashMap/d_most_occurring_element_from_arr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/HashMap/e_count_numbs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/HashMap/f_minimum_Swaps_required_to_sortArr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/HashMap/g_Longest_SubArr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/HashMap/h_find_max_freq_number.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/HashMap/i_max_freq_character.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/HashMap/j_non_repeating_char.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/HashMap/k_shuffled_String.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/HashMap/m_LargestNumberInGivenList$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/HashMap/m_LargestNumberInGivenList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/HashMap/n_find_missingNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/Stack_QueuesQues/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/Stack_QueuesQues/Main1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/Stack_QueuesQues/Must_Solve_problems" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/Stack_QueuesQues/Next_Greater_element.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/Stack_QueuesQues/Queues_Implementation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/Stack_QueuesQues/Reverse_String_Using_Stack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/Stack_QueuesQues/Stack_01_Basic_Fun_Impl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/Stack_QueuesQues/stock_span.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/Strings/Concepts/convertStringIntoNo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/Strings/Concepts/find_Most_occurring_char.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/Strings/Concepts/sort_char_OrString_arr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/Strings/ReverseWords.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/Strings/find_minimum_Cost.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/exception_Handling/TestExceptionPropagation2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/exception_Handling/Testthrows1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/exception_Handling/code01_problem_without_exception_handling.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/exception_Handling/code02_solution_with_exception_handling_using_try_catch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/exception_Handling/code03_multiple_catch_blocks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/exception_Handling/code04_multiple_catch_blocks_sequencing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/exception_Handling/code05_nested_try_catch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/exception_Handling/code06_finally_block_is_always_excuted.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/exception_Handling/code07_throw_keyword.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/exception_Handling/code08_propagation_of_unchecked_exception.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/exception_Handling/code09_checked_exception_not_propagated.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/exception_Handling/code10_checked_exception_use_throws_keyword.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/TEST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/___All_Companies_List/All_Comanies_Lists.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/___Understand_Everything/notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I0I_Strings_SlidingWindows/A4_maximumSumSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/HashMap/a_Find_Given_Difference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/HashMap/b_find_repeatations_of_char.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/HashMap/c_print_first_non_repetitive_char.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/HashMap/d_most_occurring_element_from_arr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/HashMap/e_count_numbs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/HashMap/f_minimum_Swaps_required_to_sortArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/HashMap/h_find_max_freq_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/HashMap/i_max_freq_character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/HashMap/j_non_repeating_char.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/HashMap/k_shuffled_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/HashMap/l_hashmap_impl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/HashMap/m_LargestNumberInGivenList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/HashMap/n_find_missingNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/Stack_QueuesQues/Must_Solve_problems" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/Strings/Concepts/convertStringIntoNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/Strings/Concepts/find_Most_occurring_char.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/Strings/Concepts/sort_char_OrString_arr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/exception_Handling/code01_problem_without_exception_handling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/exception_Handling/code08_propagation_of_unchecked_exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/___All_Companies_List/All_Comanies_Lists.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/___Understand_Everything/notes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_Patterns/Creational/a_singleton/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Design_Patterns/Creational/a_singleton/Singleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/I7I_Sortings/InsertionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/I7I_Sortings/InsertionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/I7I_Sortings/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/I7I_Sortings/MergeSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/I7I_Sortings/QuickSort_REVISE.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/I7I_Sortings/QuickSort_REVISE.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/I7I_Sortings/selectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/I7I_Sortings/selectionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/I9I_Recursion/o2_fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/I9I_Recursion/o2_fibonacci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I7I_Sortings/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I7I_Sortings/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I7I_Sortings/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I7I_Sortings/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I7I_Sortings/QuickSort_REVISE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I7I_Sortings/QuickSort_REVISE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I7I_Sortings/selectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I7I_Sortings/selectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I9I_Recursion/o2_fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I9I_Recursion/o2_fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/3 HashMaps/1.find given difference.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/3 HashMaps/10.max freq number.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/3 HashMaps/11. First non-repeating character in a stream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/3 HashMaps/12. shuffle string.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/3 HashMaps/2.find the repetations of character from string.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/3 HashMaps/3.concept _ print all single non repetative charcaters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/3 HashMaps/4. most occuring element from arr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/3 HashMaps/5. count nos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/3 HashMaps/6. minimum no's of swaps required to sort the arr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/3 HashMaps/7.longest subarr with sum K.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/HashMap/g_Longest_SubArr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/3 HashMaps/8.find maximum freq no.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/3 HashMaps/9. Maximum Frequency Character.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/3 HashMaps/Hashmaps implimentation.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_QuesList/Questions_nd_CONCEPTS/PAINDING/HashMap/l_hashmap_impl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/3 HashMaps/largest number in given list.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/3 HashMaps/missing number's.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/BinaryQues/Infinite_Sorted_Arr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/BinaryQues/Number_Of_Occurances_GOOGLE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/BinaryQues/Number_Of_Occurances_GOOGLE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/BinaryQues/Order_Agnostic_BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/BinaryQues/Order_Agnostic_BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/BinaryQues/Repeated_elements_in_SortedArr_GOOGLE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/BinaryQues/Repeated_elements_in_SortedArr_GOOGLE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/BinaryQues/Search_in_rotated_Sorted_Arr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/BinaryQues/Square_Root_Of_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/BinaryQues/Square_Root_Of_Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/BinaryQues/Target_element_In_InfiniteSortedArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/BinaryQues/Target_element_In_InfiniteSortedArr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/BinaryQues/find_Ceiling_inSortedArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/BinaryQues/find_Ceiling_inSortedArr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/BinaryQues/find_Floor_ceil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/Stack_QueuesQues/Next_Greater_element.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/Stack_QueuesQues/Next_Greater_element.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/Stack_QueuesQues/Next_smaller_element_From_LIFT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/Stack_QueuesQues/Next_smaller_element_From_RIGHT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/Stack_QueuesQues/Queues_Implementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/Stack_QueuesQues/Queues_Implementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/Stack_QueuesQues/Reverse_String_Using_Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/Stack_QueuesQues/Reverse_String_Using_Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/Stack_QueuesQues/Stack_Basic_Fun_Impl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/Stack_QueuesQues/Stack_01_Basic_Fun_Impl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/Stack_QueuesQues/Stock_span.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/Stack_QueuesQues/stock_span.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/Strings/1.1 return most occuracing char's using hashmaps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/Strings/2. reverse all string words.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/Strings/ReverseWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/Strings/3. concept _ convert the string numbers into int []arr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/Strings/Ques identify string is capital or small.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/Strings/Scoping.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/Strings/String concept _ sort character arr, string arr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/Strings/concept _ convert string to arr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/Strings/find_minimum_Cost.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/Strings/find_minimum_Cost.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/Strings/shuffle string.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/exceptions/code01_problem_without_exception_handling.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/exceptions/code02_solution_with_exception_handling_using_try_catch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/exception_Handling/code02_solution_with_exception_handling_using_try_catch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/exceptions/code03_multiple_catch_blocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/exception_Handling/code03_multiple_catch_blocks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/exceptions/code04_multiple_catch_blocks_sequencing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/exception_Handling/code04_multiple_catch_blocks_sequencing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/exceptions/code05_nested_try_catch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/exception_Handling/code05_nested_try_catch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/exceptions/code06_finally_block_is_always_excuted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/exception_Handling/code06_finally_block_is_always_excuted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/exceptions/code07_throw_keyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/exception_Handling/code07_throw_keyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/exceptions/code08_propagation_of_unchecked_exception.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/exceptions/code09_checked_exception_not_propagated.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/exception_Handling/code09_checked_exception_not_propagated.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/exceptions/code10_checked_exception_use_throws_keyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/exception_Handling/code10_checked_exception_use_throws_keyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/generics/code01_generics_classes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/generics/code02_generics_type_inference.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/generics/code03_generics_methods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/generics/code04_generics_classess_multiple_type_parameters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/generics/code05_generics_classess_using_paramiterized_types.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/generics/code06_generics_raw_types.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/generics/code07_generics_bounded_type_parameters_single_bound.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/generics/code08_generics_bounded_type_parameters_multiple_bounds.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/generics/code09_generics_type_parameters_naming_conventions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/generics/code10_generics_collections_example_list.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/generics/code11_generics_collections_example_set.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/generics/code12_generics_collections_example_map.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/generics/code13_generics_wildcards_upper_bounded.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/generics/code14_generics_wildcards_upper_bounded2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/generics/code15_generics_wildcards_unbounded.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/generics/code16_generics_wildcards_lower_bounded.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions_nd_CONCEPTS/PAINDING/generics/code17_generics_wildcards_long_example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TEST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TEST.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,16 +184,34 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;shantanuPawar21&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Shantanu-pawar/DS_Algorithm.git&quot;,
+    &quot;accountId&quot;: &quot;19eced79-6f46-4a13-8ebc-28efc0ae6ad6&quot;
+  }
+}</component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="true" />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="jar://C:/Program Files/Java/jdk-17/lib/src.zip!/java.base/java/lang/Object.java" root0="SKIP_INSPECTION" />
-    <setting file="jar://C:/Program Files/Java/jdk-17/lib/src.zip!/java.base/java/lang/String.java" root0="SKIP_INSPECTION" />
-    <setting file="jar://C:/Program Files/Java/jdk-17/lib/src.zip!/java.base/java/lang/System.java" root0="SKIP_INSPECTION" />
-    <setting file="jar://C:/Program Files/Java/jdk-17/lib/src.zip!/java.base/java/util/ArrayList.java" root0="SKIP_INSPECTION" />
-    <setting file="jar://C:/Program Files/Java/jdk-17/lib/src.zip!/java.base/java/util/stream/IntStream.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-17/lib/src.zip!/java.base/java/lang/Object.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-17/lib/src.zip!/java.base/java/lang/String.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-17/lib/src.zip!/java.base/java/lang/System.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-17/lib/src.zip!/java.base/java/util/ArrayList.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-17/lib/src.zip!/java.base/java/util/stream/IntStream.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2UWOqkDPsa8JRfb9GWE6KmLPLn8" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -43,11 +223,24 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.A4_maximumSumSubarray.executor": "Run",
+    "Application.InsertionSort.executor": "Run",
+    "Application.MergeSort.executor": "Run",
+    "Application.QuickSort_REVISE.executor": "Debug",
+    "Application.o2_fibonacci.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Intellej - Maven codes/DSA - QuesList/OOPs _ design patterns [GIT CODE]",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.notifications"
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "go.import.settings.migrated": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Shantanu/Downloads/MasterShifu",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.notifications",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -58,16 +251,16 @@
       <recent name="D:\Intellej - Maven codes\DSA - QuesList\DSA_QuesList\src\Questions_nd_CONCEPTS\I11I_Binary_Search" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/All_Companies_List" />
+      <recent name="$PROJECT_DIR$/src/All_Companies_List.md" />
       <recent name="D:\__Maven - intellej codes\DSA - QuesList\DSA_QuesList\src\CoreJava_java8\StreamAPI" />
       <recent name="D:\__Maven - intellej codes\DSA_QuesList\src\Questions_nd_CONCEPTS" />
       <recent name="D:\__Maven - intellej codes\DSA_QuesList\src\Questions_nd_CONCEPTS\A_OnlineBestRepo" />
-      <recent name="D:\__Maven - intellej codes\DSA_QuesList\src\Questions_nd_Algo" />
-      <recent name="D:\__Maven - intellej codes\DSA_QuesList\src\I0I_MultiThreading_PAINDING" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution">
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Questions_nd_CONCEPTS.I0I_Strings_SlidingWindows.Solution" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="A4_maximumSumSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Questions_nd_CONCEPTS.I0I_Strings_SlidingWindows.A4_maximumSumSubarray" />
       <module name="DSA_QuesList" />
       <extension name="coverage">
         <pattern>
@@ -79,19 +272,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TEST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TEST" />
-      <module name="DSA_QuesList" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="c1_Abstract_class_And_Methods (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Design_OOP_Concepts.Abstraction.c1_Abstract_class_And_Methods" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Questions_nd_CONCEPTS.PAINDING.Stack_QueuesQues.Main" />
       <module name="DSA_QuesList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Design_OOP_Concepts.Abstraction.*" />
+          <option name="PATTERN" value="Questions_nd_CONCEPTS.PAINDING.Stack_QueuesQues.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +285,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="c1_Abstract_class_And_Methods (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Design_OOP_Concepts.Abstraction.c1_Abstract_class_And_Methods" />
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Questions_nd_CONCEPTS.I7I_Sortings.MergeSort" />
       <module name="DSA_QuesList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Design_OOP_Concepts.Abstraction.*" />
+          <option name="PATTERN" value="Questions_nd_CONCEPTS.I7I_Sortings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +298,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="c1_Abstract_class_And_Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Design_OOP_Concepts.Abstraction.c1_Abstract_class_And_Methods" />
+    <configuration name="QuickSort_REVISE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Questions_nd_CONCEPTS.I7I_Sortings.QuickSort_REVISE" />
       <module name="DSA_QuesList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Design_OOP_Concepts.Abstraction.*" />
+          <option name="PATTERN" value="Questions_nd_CONCEPTS.I7I_Sortings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="o2_fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Questions_nd_CONCEPTS.I9I_Recursion.o2_fibonacci" />
+      <module name="DSA_QuesList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Questions_nd_CONCEPTS.I9I_Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +326,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.c1_Abstract_class_And_Methods (2)" />
-        <item itemvalue="Application.c1_Abstract_class_And_Methods (1)" />
-        <item itemvalue="Application.c1_Abstract_class_And_Methods" />
-        <item itemvalue="Application.TEST" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.A4_maximumSumSubarray" />
+        <item itemvalue="Application.o2_fibonacci" />
+        <item itemvalue="Application.QuickSort_REVISE" />
+        <item itemvalue="Application.MergeSort" />
       </list>
     </recent_temporary>
   </component>
@@ -143,6 +342,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693052074508</updated>
+      <workItem from="1731948383458" duration="178000" />
+      <workItem from="1731996802680" duration="101000" />
     </task>
     <task id="LOCAL-00001" summary="Refactoring the repo">
       <created>1731561889831</created>
@@ -168,6 +369,9 @@
     <option name="localTasksCounter" value="4" />
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -183,6 +387,31 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Refactoring the repo" />
     <option name="LAST_COMMIT_MESSAGE" value="Refactoring the repo" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>false</integration-enabled>
+    <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I7I_Sortings/QuickSort_REVISE.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I7I_Sortings/QuickSort_REVISE.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Questions_nd_CONCEPTS/I7I_Sortings/QuickSort_REVISE.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -3,8 +3,10 @@ import java.util.Arrays;
 
 public class InsertionSort {
     public static void main(String[] args) {
-        int []arr = {4, 5, 11, 2, 32};
+
+        int []arr = {44, 5, 11, 2, 32};
         insertion(arr);
+
     }
     static void insertion(int []arr){
 
@@ -20,4 +22,3 @@ public class InsertionSort {
         System.out.println(Arrays.toString(arr));
     }
 }
-

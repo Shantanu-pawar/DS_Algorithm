@@ -40,7 +40,7 @@ public class QuickSort_REVISE {
 
     static void quickSort(int[] arr, int low, int high){
 
-        if (low < high) { // pi = Pindex [partition index]
+        if (low < high) { // pi = P_Index [partition index]
             int pi = partition(arr, low, high);
             quickSort(arr, low, pi - 1);
             quickSort(arr, pi + 1, high);
@@ -48,7 +48,8 @@ public class QuickSort_REVISE {
     }
 
     public static void main(String[] args){
-        int[] arr = { 10, 7, 8, 9, 1, 5 };
+//        int[] arr = { 10, 17, 28, 94, 11, 53 };
+        int[] arr = {11,92,15,110,17};
         quickSort(arr, 0, arr.length - 1);
         System.out.println(Arrays.toString(arr));
     }

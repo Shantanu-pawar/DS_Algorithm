@@ -1,46 +1,53 @@
 package Questions_nd_CONCEPTS.I7I_Sortings;
-
 import java.util.Arrays;
+
+
 
 public class MergeSort {
     public static void main(String[] args) {
-        int []arr = {6, 5, 12, 10, 9, 1};
-        mergeSort(arr, 0, arr.length-1);
+
+        int []arr = {21,12,5,66,34};
+        mergesort(0, arr.length-1, arr);
 
         System.out.println(Arrays.toString(arr));
     }
-    static void mergeSort(int []arr, int start, int end){
-        if (start < end){
-            int mid =( start + end)/2;
 
-            mergeSort(arr, start, mid); // basically calling itself till last elemnt
-            mergeSort(arr, mid + 1, end);
+    static void mergesort(int start, int end, int []arr){
 
-            merge(arr, start, mid, end); //case : after recursive call's just merge it.
+        if(start < end){
+            int mid = (start+end)/2;
+            mergesort(start, mid, arr);
+            mergesort(mid+1, end, arr);
+
+            calculateAndMergeArr(start, mid, end, arr);
         }
     }
 
-    static void merge(int []arr, int start, int mid, int end){
-        int []ans = new int[end - start + 1];
-        int i = start;
-        int j = mid+1; int k = 0;
+    static void calculateAndMergeArr(int start, int mid, int end, int []arr){
+        // create arr size
+        int []temp = new int[end-start+1];
+        int i = start; int j = mid+1;
+        int k = 0;
 
-        while(i <= mid && j <= end){
+        // fill the arr accordingly to the order
+        while(i<=mid && j<=end) {
+
+            // compare the elements
             if(arr[i] < arr[j])
-                ans[k++] = arr[i++];
+                temp[k++] = arr[i++];
 
-            else
-                ans[k++] = arr[j++];
+            else temp[k++] = arr[j++];
         }
-        // store the remaining elements
-        while(i <= mid) ans[k++] = arr[i++];
-        while(j <= end) ans[k++] = arr[j++];
 
+        // filled the remaining arr elements case
+        while(i <= mid) temp[k++] = arr[i++];
+        while(j <= end) temp[k++] = arr[j++];
+
+        // replace you're temp arr into above one which you wanna return
         k = 0;
-        // case: it's time to place this all into arr bcaz we actually print inplace at starting func
-        for(int a =start; a<=end; a++) {
-        arr[a] = ans[k++];
+        for(int a = start; a <= end; a++){
+            arr[a] = temp[k++];
         }
-
     }
+
 }

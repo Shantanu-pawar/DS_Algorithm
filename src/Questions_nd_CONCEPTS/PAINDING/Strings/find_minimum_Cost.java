@@ -1,19 +1,20 @@
+package Questions_nd_CONCEPTS.PAINDING.Strings;
 
-// Problm statement : 
+import java.util.*;
+public class find_minimum_Cost {
+
+// Problm statement :
 // 1. lalit has string which only contains red, white, black colours [w,r,b]
 // 2. he don't like white colour, so he want's to convert either in red or black
-// 3. so we have some user input for changing white or black into red 
-//     and another input for changing white or red into black 
+// 3. so we have some user input for changing white or black into red
+//     and another input for changing white or red into black
 
 // 4. findout which one costs less and then return that value;?
 
 // input : 2 3 wwrbb
 // expected output : 8
 
-
-import java.util.*;
-public class Main{
-      public static void main (String[]args){
+    public static void main (String[]args){
     
           Scanner in = new Scanner(System.in);
           int costRed = in.nextInt();

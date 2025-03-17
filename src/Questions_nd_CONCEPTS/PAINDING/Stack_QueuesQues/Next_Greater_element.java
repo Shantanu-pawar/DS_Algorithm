@@ -1,4 +1,4 @@
-
+package Questions_nd_CONCEPTS.PAINDING.Stack_QueuesQues;
 // https://course.acciojob.com/idle?question=73772158-09d5-4636-aa41-def2d3158102
 
 import java.util.*;
@@ -27,10 +27,9 @@ import java.io.*;
 // 	}
 
 
-class Solution
-{
-    public static long[] nextLargerElement(long[] arr, int n){ 
+class Next_Greater_element {
 
+    public static long[] nextLargerElement(long[] arr, int n){
 		n = arr.length;
         long []ans = new long[n];
         
@@ -53,10 +52,7 @@ class Solution
         return ans;
         
     }
-}
 
-
-class Main {
     public static void main (String[] args) throws IOException {
 
 
@@ -65,7 +61,7 @@ class Main {
 		    String inputLine[] = br.readLine().trim().split(" ");
 		    long[] arr = new long[n];
 		    for(int i=0; i<n; i++)arr[i]=Long.parseLong(inputLine[i]);
-		    long[] res = new Solution().nextLargerElement(arr, n);
+		    long[] res = nextLargerElement(arr, n);
 		    for (int i = 0; i < n; i++) 
 		        System.out.print(res[i] + " ");
 		    System.out.println();

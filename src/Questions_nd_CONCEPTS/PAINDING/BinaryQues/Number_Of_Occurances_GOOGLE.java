@@ -1,7 +1,7 @@
-
+package Questions_nd_CONCEPTS.PAINDING.BinaryQues;
 // Find the number of occurrences of an element in a sorted array
 
-public class Main {
+public class Number_Of_Occurances_GOOGLE {
 	public static void main(String[] args) {
        
        int [] arr ={4, 4, 8, 8, 8, 8, 8, 8, 8, 15, 16, 23, 23, 42};

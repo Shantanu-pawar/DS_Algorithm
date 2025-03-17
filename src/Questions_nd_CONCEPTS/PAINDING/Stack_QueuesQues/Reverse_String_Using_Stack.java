@@ -1,9 +1,12 @@
+package Questions_nd_CONCEPTS.PAINDING.Stack_QueuesQues;
+
 import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-public class Main
-{
+class Reverse_String_Using_Stack{}
+
+ class Main1 {
 	public static void main (String[] args) throws java.lang.Exception{
         
         Scanner in = new Scanner(System.in);
@@ -11,7 +14,7 @@ public class Main
 
         Stack<Character> st = new Stack <>();
 
-// this is for store the characters of strings in stack
+    // this is for store the characters of strings in stack
         for(int i=0; i<str.length(); i++) {
             st.push ( str.charAt (i) );
         }

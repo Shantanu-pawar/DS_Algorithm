@@ -1,5 +1,7 @@
-public class Main
-{
+package Questions_nd_CONCEPTS.PAINDING.BinaryQues;
+
+public class Order_Agnostic_BinarySearch {
+
 	public static void main(String[] args) {
 //             int [] arr =  {15, 14, 13, 12, 11, 10, 9, 8, 5, 4, 3, 2, 1};  // {8};
 	

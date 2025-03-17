@@ -1,3 +1,5 @@
+package Questions_nd_CONCEPTS.PAINDING.BinaryQues;
+
 import java.util.*;
 
 // https://youtu.be/8x6dmO6XW8k?list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2
@@ -13,7 +15,8 @@ int [] arr = {0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 3 , 3, 3, 4, 5 , 6, 7
 target element : 3 [find first occurrence ]
 
 */
-public class Main{
+
+public class Target_element_In_InfiniteSortedArr{
   public static void main (String[]args){
 
     int [] arr = {0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 3 , 3, 3, 4, 5 , 6, 7, 8, 9, 9, 9, 9, 9};
@@ -28,8 +31,8 @@ public class Main{
         }
         
         System.out.println(firstOccurance(arr, target, start, end));
-        
   }
+
     static int firstOccurance(int [] arr, int target, int start, int end){
         
         int ans = -1;

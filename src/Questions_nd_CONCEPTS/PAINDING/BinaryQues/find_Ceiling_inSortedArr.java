@@ -1,8 +1,8 @@
-// ex : arr : [1 4 8 9 10]     target :5
+package Questions_nd_CONCEPTS.PAINDING.BinaryQues;// ex : arr : [1 4 8 9 10]     target :5
 // here in this problm we have to find smallest elemt from arr that is greater than the 5 [means 1st next element from arr]
 
 import java.util.*;
-public class Main{
+public class find_Ceiling_inSortedArr{
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 

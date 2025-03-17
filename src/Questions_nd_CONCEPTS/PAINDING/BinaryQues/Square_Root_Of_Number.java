@@ -1,8 +1,10 @@
+package Questions_nd_CONCEPTS.PAINDING.BinaryQues;
+
 import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-public class Main{
+public class Square_Root_Of_Number{
 	public static void main (String[] args) throws java.lang.Exception{
 
                 Scanner in = new Scanner (System.in);

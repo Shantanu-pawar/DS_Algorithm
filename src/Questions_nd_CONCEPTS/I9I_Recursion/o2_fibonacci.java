@@ -3,7 +3,7 @@ package Questions_nd_CONCEPTS.I9I_Recursion;
 public class o2_fibonacci {
     public static void main(String[] args) {
 
-        int n = 6;
+        int n = 7;
         int ans = fibonacci(n);
         System.out.println(ans);
     }
