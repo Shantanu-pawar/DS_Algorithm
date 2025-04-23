@@ -27,7 +27,6 @@ class Circle extends Shape{
 
     @Override
     double length(){
-        // finding diameter
         return radius * 2;
     }
 

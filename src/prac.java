@@ -6,6 +6,8 @@ import java.util.List;
 public class prac {}
 
  class DistinctExampleUserDefined {
+
+
     public static void main(String[] args) {
         ArrayList<Student> listOfStudent = new ArrayList<Student>();
         listOfStudent.add(new Student(101, "MCA", "Ram"));
